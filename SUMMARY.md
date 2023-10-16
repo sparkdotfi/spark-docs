@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Spark Document Hub](README.md)
+* [Spark Documentation](README.md)
 
 ## 📃 Governance
 
