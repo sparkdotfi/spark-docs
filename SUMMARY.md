@@ -14,11 +14,10 @@
 
 * [Data Analytics](https://docs.sparkprotocol.io/data-analytics/)
 
-
 ## 👷 Ecosystem Actors
 
 * [Phoenix Labs' Job Board](https://phoenix-labs.notion.site/Phoenix-Labs-Job-Board-794d22cacbef4c9c963a5ca4b96d71c8?pvs=4)
- 
+
 ## 🏪 SparkLend
 
 * [SparkLend Overview](sparklend/README.md)
@@ -46,13 +45,9 @@
   * [Testing Guide](sparklend/guides/testing-guide.md)
   * [Troubleshooting Errors](sparklend/guides/troubleshooting-errors.md)
 
-## 💸 sDAI
-
-## 🚇 Conduits
-
 ## Security
 
-* [Audits]()
+* [Audits](<README (1).md>)
 
 ## Communication
 

@@ -1,8 +1,4 @@
----
-coverY: 0
----
-
-# Spark Document Hub
+# Spark Documents
 
 **Spark** is on a mission to empower the DAI ecosystem
 
@@ -14,8 +10,9 @@ coverY: 0
 
 **SparkConduits**: Direct Liquidity for Protocols
 
+
+
 <figure><img src=".gitbook/assets/spark (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
-
-_The IP in this repository was assigned to Mars SPC Limited in respect of the MarsOne SP_
+*The IP in this repository was assigned to Mars SPC Limited in respect of the MarsOne SP*
