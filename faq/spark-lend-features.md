@@ -1,8 +1,8 @@
-# Spark Lend Features
+# SparkLend Features
 
 ### Isolation Mode
 
-Isolation mode allows Maker Governance to list new assets as isolated assets, which have a specific debt ceiling. Only certain assets can be borrowed in isolation mode—specifically, approved stablecoins. In order for an asset to become approved for borrowing, assets are voted on by MKR token holders through the Maker Governance. 
+Isolation mode allows Maker Governance to list new assets as isolated assets, which have a specific debt ceiling. Only certain assets can be borrowed in isolation mode—specifically, approved stablecoins. In order for an asset to become approved for borrowing, assets are voted on by MKR token holders through the Maker Governance.
 
 The debt ceiling for an isolated asset is represented as the maximum amount in USD that can be borrowed against the user’s collateral with two decimals of precision.
 
@@ -17,9 +17,9 @@ Entering isolation mode is specific to certain isolated assets that are voted on
 
 ### How can I exit isolation mode?
 
-To exit isolation mode, you will need to disable the collateralized isolated asset that you have supplied. 
+To exit isolation mode, you will need to disable the collateralized isolated asset that you have supplied.
 
-1. From the “Your Supplies” section, click the slider button to disable the isolated asset. 
+1. From the “Your Supplies” section, click the slider button to disable the isolated asset.
 2. Confirm the disabled isolation mode setting. You have now successfully exited isolation mode.
 
 ### How does isolation mode affect my borrowing power?

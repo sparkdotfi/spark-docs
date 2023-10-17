@@ -11,7 +11,6 @@ Browse to the "Supply" section and click on "Supply" for the asset you want to s
 aTokens holders receive continuous earnings that evolve with market conditions based on:
 
 * **The interest rate payment on loans** - suppliers share the interests paid by borrowers corresponding to the average borrow rate times the utilisation rate. The higher the utilisation of a reserve the higher the yield for suppliers.
-
 * **Flash Loan fees** - suppliers receive a share of the Flash Loan fees corresponding to .09% of the Flash Loan volume.
 
 Each asset has its own market of supply and demand with its own APY (Annual Percentage Yield) which evolves with time. You can find the average annual rate over the past 30 days to evaluate the rate evolution, and you can also find more data on the reserve overview of each asset in the home section on the app.
@@ -32,7 +31,7 @@ You would need to make sure there is enough liquidity (not borrowed) in order to
 
 ## Can I opt-out my asset from being used as a collateral?
 
-Yes. After supplying your assets, you are able to unselect the asset so that it will not be used as collateral. The opt-out is available in the "Supply" section within your dashboard. Simply switch the "use as collateral" button on the asset you would prefer to opt-out from being used as a collateral. \
+Yes. After supplying your assets, you are able to unselect the asset so that it will not be used as collateral. The opt-out is available in the "Supply" section within your dashboard. Simply switch the "use as collateral" button on the asset you would prefer to opt-out from being used as a collateral.\
 \
 \* You can withdraw your assets without opting out of using them as collateral, as long as those funds are not actively being used to borrow and the withdrawal would cause a liquidation on your loans.
 
