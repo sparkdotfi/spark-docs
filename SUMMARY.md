@@ -1,20 +1,16 @@
 # Table of contents
 
 * [Spark Documentation](README.md)
-
-## 📚 FAQ
-
-* [Page 1](faq/page-1.md)
-* [FAQ](faq/faq/README.md)
-  * [Borrowing](faq/faq/borrowing.md)
-  * [Flash Loans](faq/faq/flash-loans.md)
-  * [Frozen Markets and Reserves](faq/faq/frozen-markets-and-reserves.md)
-  * [SparkLend Features](faq/faq/spark-lend-features.md)
-  * [Supplying & Earning](faq/faq/supplying-and-earning.md)
-  * [Swap & Repay with collateral](faq/faq/swap-and-repay-with-collateral.md)
-  * [Testing SparkLend](faq/faq/testing-spark-lend.md)
-  * [Troubleshooting](faq/faq/troubleshooting.md)
-  * [Liquidations](faq/faq/liquidations.md)
+* [FAQ](faq/README.md)
+  * [Borrowing](faq/borrowing.md)
+  * [Flash Loans](faq/flash-loans.md)
+  * [Frozen Markets and Reserves](faq/frozen-markets-and-reserves.md)
+  * [SparkLend Features](faq/spark-lend-features.md)
+  * [Supplying & Earning](faq/supplying-and-earning.md)
+  * [Swap & Repay with collateral](faq/swap-and-repay-with-collateral.md)
+  * [Testing SparkLend](faq/testing-spark-lend.md)
+  * [Troubleshooting](faq/troubleshooting.md)
+  * [Liquidations](faq/liquidations.md)
 
 ## 🏪 SparkLend
 
