@@ -2,15 +2,17 @@
 
 * [Spark Documentation](README.md)
 * [FAQ](faq/README.md)
-  * [Borrowing](faq/borrowing.md)
-  * [Flash Loans](faq/flash-loans.md)
-  * [Frozen Markets and Reserves](faq/frozen-markets-and-reserves.md)
-  * [SparkLend Features](faq/spark-lend-features.md)
-  * [Supplying & Earning](faq/supplying-and-earning.md)
-  * [Swap & Repay with collateral](faq/swap-and-repay-with-collateral.md)
-  * [Testing SparkLend](faq/testing-spark-lend.md)
-  * [Troubleshooting](faq/troubleshooting.md)
-  * [Liquidations](faq/liquidations.md)
+  * [SparkLend](faq/sparklend/README.md)
+    * [Borrowing](faq/sparklend/borrowing.md)
+    * [Flash Loans](faq/sparklend/flash-loans.md)
+    * [SparkLend Features](faq/sparklend/spark-lend-features.md)
+    * [Frozen Markets and Reserves](faq/sparklend/frozen-markets-and-reserves.md)
+    * [Supplying & Earning](faq/sparklend/supplying-and-earning.md)
+    * [Swap & Repay with collateral](faq/sparklend/swap-and-repay-with-collateral.md)
+    * [Testing SparkLend](faq/sparklend/testing-spark-lend.md)
+    * [Troubleshooting](faq/sparklend/troubleshooting.md)
+    * [Liquidations](faq/sparklend/liquidations.md)
+* [DSR & sDAI](dsr-and-sdai.md)
 
 ## 🏪 SparkLend
 
@@ -37,13 +39,7 @@
 ## 💻 Spark Developers
 
 * [Spark Developer Docs](https://docs.sparkprotocol.io/developers/)
-
-## 💻 Spark Analytics
-
 * [Data Analytics](https://docs.sparkprotocol.io/data-analytics/)
-
-## 👷 Ecosystem Actors
-
 * [Phoenix Labs' Job Board](https://phoenix-labs.notion.site/Phoenix-Labs-Job-Board-794d22cacbef4c9c963a5ca4b96d71c8?pvs=4)
 
 ## Communication
@@ -52,3 +48,7 @@
 * [SparkDAO Forum](https://forum.makerdao.com/c/spark-subdao/84)
 * [Spark Protocol Twitter](https://twitter.com/spark\_protocol)
 * [Spark Brand Assets / Press Kit](governance/sparkdao/brand-assets-press-kit.md)
+
+## 💸 sDAI
+
+* [Page 1](sdai/page-1.md)
