@@ -14,19 +14,23 @@
     * [Liquidations](faq/sparklend/liquidations.md)
   * [DSR & sDAI](faq/sparklend/dsr-and-sdai.md)
 
-## 🏪 SparkLend
-
-* [SparkLend Overview](sparklend/README.md)
-
 ## 📃 Governance
 
 * [SparkDAO](governance/sparkdao.md)
 * [SPK token](governance/spk-token.md)
 
+## 🏪 SparkLend
+
+* [SparkLend Overview](sparklend/README.md)
+
+## 💸 sDAI
+
+* [Page 1](sdai/page-1.md)
+
 ## 💻 Spark Developers
 
 * [Spark Developer Docs](https://devs.spark.fi/)
-* [Data Analytics](https://devs.spark.fi/data-analytics/)
+* [Spark Analytics](https://devs.spark.fi/spark-analytics/)
 * [Phoenix Labs' Job Board](https://phoenix-labs.notion.site/Phoenix-Labs-Job-Board-794d22cacbef4c9c963a5ca4b96d71c8?pvs=4)
 
 ## Comms
@@ -36,6 +40,6 @@
 * [Spark Twitter](https://twitter.com/sparkdotfi)
 * [Spark Brand Assets / Press Kit](comms/brand-assets-press-kit.md)
 
-## 💸 sDAI
+## 🚇 SparkConduits
 
-* [Page 1](sdai/page-1.md)
+* [SparkConduits](sparkconduits/sparkconduits.md)
