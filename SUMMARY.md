@@ -25,7 +25,7 @@
 
 ## 💸 sDAI
 
-* [Page 1](sdai/page-1.md)
+* [sDAI Overview](sdai/page-1.md)
 
 ## 💻 Spark Developers
 
