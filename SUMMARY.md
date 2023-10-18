@@ -20,8 +20,8 @@
 
 ## 📃 Governance
 
-* [SparkDAO](governance/sparkdao/README.md)
-* [SPK token](governance/sparkdao/spk-token.md)
+* [SparkDAO](governance/sparkdao.md)
+* [SPK token](governance/spk-token.md)
 
 ## 💻 Spark Developers
 
