@@ -71,19 +71,19 @@ Spark Protocol offers the option to have _**multiple rewards**_ per token. Now, 
 
 The Spark interface is hosted on [IPFS](https://ipfs.tech/) in a decentralized manner. Spark maps the following DNS names to the Cloudflare IPFS gateway:
 
-* [https://app.sparkprotocol.io](https://app.sparkprotocol.io) will always point to the latest main IPFS hash
+* [https://app.spark.fi](https://app.spark.fi) will always point to the latest main IPFS hash
 
 ### IPFS Troubleshooting
 
-If the Cloudflare gateway is not working and you are unable to connect to [app.sparkprotocol.io](https://app.sparkprotocol.io), you can use any public or private IPFS gateway supporting origin isolation to access the Spark interface:
+If the Cloudflare gateway is not working and you are unable to connect to [app.spark.fi](https://app.spark.fi), you can use any public or private IPFS gateway supporting origin isolation to access the Spark interface:
 
-* Go to `<your favorite public ipfs gateway>/ipns/app.sparkprotocol.io`
+* Go to `<your favorite public ipfs gateway>/ipns/app.spark.fi`
 * Make sure the gateway supports origin isolation to avoid possible security issues
-* You should be redirected to a URL that looks like `https://app-sparkprotocol-io.<your gateway>`
+* You should be redirected to a URL that looks like `https://app-spark.fi.<your gateway>`
 
 ### Previous Links
 
 The following links have worked previously:
 
-* https://app-sparkprotocol-io.ipns.cf-ipfs.com/#/
-* https://app-sparkprotocol-io.ipns.dweb.link/#/
+* https://app-spark.fi.ipns.cf-ipfs.com/#/
+* https://app-spark.fi.ipns.dweb.link/#/

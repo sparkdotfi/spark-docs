@@ -46,8 +46,8 @@
 
 * [SparkDAO Discord](https://discord.gg/sparkdao)
 * [SparkDAO Forum](https://forum.makerdao.com/c/spark-subdao/84)
-* [Spark Protocol Twitter](https://twitter.com/spark\_protocol)
-* [Spark Brand Assets / Press Kit](governance/sparkdao/brand-assets-press-kit.md)
+* [Spark Twitter](https://twitter.com/sparkdotfi)
+* [Spark Brand Assets / Press Kit](governance/brand-assets-press-kit.md)
 
 ## 💸 sDAI
 
