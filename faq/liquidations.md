@@ -34,4 +34,4 @@ You should be mindful of the stablecoin price fluctuations due to market conditi
 
 ## Can I participate in the liquidations ecosystem?
 
-Yes, liquidations are open to anyone, but there is a lot of competition. Normally liquidators develop their own solutions and bots to be the first ones liquidating loans to get the liquidation bonus. You can find more details in the [developers liquidation section](https://docs.sparkprotocol.io/developers/guides/liquidations).
+Yes, liquidations are open to anyone, but there is a lot of competition. Normally liquidators develop their own solutions and bots to be the first ones liquidating loans to get the liquidation bonus. You can find more details in the [developers liquidation section](https://devs.spark.fi/guides/liquidations).

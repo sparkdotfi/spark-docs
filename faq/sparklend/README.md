@@ -22,13 +22,13 @@ Your funds are allocated in a smart contract. The code of the smart contract is 
 
 ### Address Screening
 
-**Why is my wallet blocked?** We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.sparkprotocol.io that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [contact@marsfoundation.xyz](mailto:contact@marsfoundation.xyz).
+**Why is my wallet blocked?** We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.spark.fi that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [contact@marsfoundation.xyz](mailto:contact@marsfoundation.xyz).
 
 **What information is shared with TRM Labs?** Your address is shared with TRM, but no metadata is tracked or shared. The request from the UI is routed to the SparkLend hosted API, which is used as a proxy endpoint, and the address is passed directly through to the TRM service. Users' IP addresses are not shared with TRM.
 
 ### Is there any risk?
 
-No platform can be considered entirely risk free. The risks related to the SparkLend platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimise the risk as much as possible-- the protocol code is public and open source and it has been audited. Additionally, you can find additional security related information in the [security and audits](https://docs.sparkprotocol.io/developers/deployed-contracts/security-and-audits) sections.
+No platform can be considered entirely risk free. The risks related to the SparkLend platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimise the risk as much as possible-- the protocol code is public and open source and it has been audited. Additionally, you can find additional security related information in the [security and audits](https://devs.spark.fi/security-and-audits) sections.
 
 ### Mobile App
 

@@ -38,8 +38,8 @@
 
 ## 💻 Spark Developers
 
-* [Spark Developer Docs](https://docs.sparkprotocol.io/developers/)
-* [Data Analytics](https://docs.sparkprotocol.io/data-analytics/)
+* [Spark Developer Docs](https://devs.spark.fi/)
+* [Data Analytics](https://devs.spark.fi/data-analytics/)
 * [Phoenix Labs' Job Board](https://phoenix-labs.notion.site/Phoenix-Labs-Job-Board-794d22cacbef4c9c963a5ca4b96d71c8?pvs=4)
 
 ## Communication

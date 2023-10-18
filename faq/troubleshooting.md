@@ -8,7 +8,7 @@
   * Make sure contract data is allowed on the Ethereum app settings.
 * Coinbase
   * Use the scan QR option to connect.
-  * If you want to access directly from Coinbase wallet just go to app.sparkprotocol.io on the browser within the app.
+  * If you want to access directly from Coinbase wallet just go to app.spark.fi on the browser within the app.
 * Wallet connect
   * Use the scan QR code to connect
 

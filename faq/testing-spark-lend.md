@@ -2,17 +2,17 @@
 
 ## Introduction
 
-You are able to test the Spark Protocol without spending cryptoassets on the Ethereum Goerli testnet. To get started, head to the Spark testnet client which is available at [app.sparkprotocol.io](https://app.sparkprotocol.io/) and simply enable the testnet switch in settings section of the app, top right corner. Make sure to switch your wallet provider to the appropriate testnet network in order to use the protocol testnet without incurring costs on the mainnet network.
+You are able to test the Spark Protocol without spending cryptoassets on the Ethereum Goerli testnet. To get started, head to the Spark testnet client which is available at [app.spark.fi](https://app.spark.fi/) and simply enable the testnet switch in settings section of the app, top right corner. Make sure to switch your wallet provider to the appropriate testnet network in order to use the protocol testnet without incurring costs on the mainnet network.
 
 Testnet networks are different environments from mainnet and simulate real use cases for development, testing or production. The assets on a testnet are not “real,” meaning that they cannot be withdrawn to your wallet for any real economic value.
 
 ## What do I need for testing?
 
-When accessing each testnet, you will need to use its own native asset token. You can find these in the Faucet tab of app.sparkprotocol.io where you can submit a transaction for the specific token you need.
+When accessing each testnet, you will need to use its own native asset token. You can find these in the Faucet tab of app.spark.fi where you can submit a transaction for the specific token you need.
 
 Steps to test:
 
-1. Go to \[app.sparkprotocol.io]https://app.sparkprotocol.io/), select the settings button on the top right corner, enable testnet view
+1. Go to \[app.spark.fi]https://app.spark.fi/), select the settings button on the top right corner, enable testnet view
 2. Switch to the testnet you wish to utilize over your wallet provider
 3. Make sure to have the native asset for the specific network
 4. Get some tokens from the test client faucet
@@ -23,7 +23,7 @@ Steps to test:
 
 ## How do I get tokens for testing?
 
-You can get tokens to test tokens from the Faucet section on the top menu of \[app.sparkprotocol.io]https://app.sparkprotocol.io/).
+You can get tokens to test tokens from the Faucet section on the top menu of \[app.spark.fi]https://app.spark.fi/).
 
 ## How do I select the testnet?
 
