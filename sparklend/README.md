@@ -1,10 +1,10 @@
 # SparkLend Overview
 
-The Spark Protocol is decentralised non-custodial liquidity protocol where users can participate as suppliers, borrowers or liquidators. Suppliers provide liquidity to a market and can earn interest on the crypto assets provided, while borrowers are able to borrow in an overcollateralized fashion. Borrowers can also engage in one-block borrow transactions (”flash loans”), which do not require overcollateralization.
+SparkLend is decentralised non-custodial liquidity protocol where users can participate as suppliers, borrowers or liquidators. Suppliers provide liquidity to a market and can earn interest on the crypto assets provided, while borrowers are able to borrow in an overcollateralized fashion. Borrowers can also engage in one-block borrow transactions (”flash loans”), which do not require overcollateralization.
 
 ## Capital Efficiency
 
-We allow users to optimise their assets supplied to the Spark Protocol in terms of yield generation and borrowing power.
+We allow users to optimise their assets supplied to the SparkLend in terms of yield generation and borrowing power.
 
 ### [Efficiency Mode (eMode)](sparklend/features/efficiency-mode-emode.md)
 
@@ -28,14 +28,14 @@ Siloed borrowing allows assets with potentially manipulatable oracles to be list
 
 ## Risk Management
 
-Spark Protocol brings a greatly improved set risk parameters and new features to protect the protocol from insolvency.
+SparkLend brings a greatly improved set risk parameters and new features to protect the protocol from insolvency.
 
 ### [Supply and Borrow Caps](sparklend/features/supply-borrow-caps.md)
 
 The Maker governance can now configure Borrow and Supply Caps.
 
 * **Borrow Caps:** allow to modulate how much of each asset can be borrowed, which reduces insolvency risk.
-* **Supply Caps**: allow to limit how much of a certain asset is supplied to the Spark protocol. This helps reducing exposure to a certain asset and mitigate attacks like infinite minting or price oracle manipulation.
+* **Supply Caps**: allow to limit how much of a certain asset is supplied to SparkLend. This helps reducing exposure to a certain asset and mitigate attacks like infinite minting or price oracle manipulation.
 
 ### Granular Borrowing Power Control
 
