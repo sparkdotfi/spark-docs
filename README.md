@@ -1,18 +1,30 @@
 ---
-coverY: 0
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Spark Document Hub
+# Spark Documentation
 
-**Spark** is on a mission to empower the DAI ecosystem
+## **Welcome to Spark!**
 
-**SparkDAO**: A Maker subDAO focused on DeFi
+**Spark** is on a mission to empower the DAI ecosystem. As part of the MakerDAO community, Spark builds and manages DeFi infrastructure.
 
-**SparkLend**: The DAI centric money market protocol. Combining the best liquidity directly from Maker and vertically integrating with the best DeFi protocols.
+The 3 main DeFi infrastructure projects:
 
-**sDAI**
+* **SparkLend**: The DAI centric money market protocol. Combining the best liquidity directly from Maker and vertically integrating with the best DeFi protocols.
+* **sDAI** is a yield bearing stablecoin, representing DAI in the Dai Savings Rate (DSR) module, which distributes revenue from the Maker protocol to DAI holders.
+* **SparkConduits** allow for direct liquidity from Maker to protocols as part of the overall Maker Allocation System.
 
-**SparkConduits**: Direct Liquidity for Protocols
+**SparkDAO** is a Maker Allocator subDAO that owns and manages Spark through decentralised governance. Its launch, alongside the other subDAOs, is scheduled for May 2024.
 
 ***
 
