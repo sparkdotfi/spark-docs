@@ -39,11 +39,11 @@ The Maker governance can now configure Borrow and Supply Caps.
 
 ### Granular Borrowing Power Control
 
-In Spark Protocol, it will be possible to lower the borrowing power of any asset to as low as 0% without any impact on existing borrowers (it’s still possible to use the old approach - liquidating existing users - if deemed necessary)
+In SparkLend, it will be possible to lower the borrowing power of any asset to as low as 0% without any impact on existing borrowers (it’s still possible to use the old approach - liquidating existing users - if deemed necessary)
 
 ### Risk Admins
 
-Spark Protocol introduces the ability for the Maker Governance to grant entities permission to update the risk parameters with going through governance vote for every change. These entities can be DAOs or automated agents (eg. RiskDAO, Gauntlet) that can build on top of this feature to react automatically in case of unanticipated events.
+SparkLend introduces the ability for the Maker Governance to grant entities permission to update the risk parameters with going through governance vote for every change. These entities can be DAOs or automated agents (eg. RiskDAO, Gauntlet) that can build on top of this feature to react automatically in case of unanticipated events.
 
 {% hint style="info" %}
 Maker Governance will have the ability to revoke access to existing Risk Admins or add new Risk Admins.
@@ -61,7 +61,7 @@ The liquidation mechanism has been improved to allow the position to be fully li
 
 ## Decentralisation
 
-Spark Protocol introduces a new system role - `ASSET_LISTING_ADMIN_ROLE` - that can be granted by the Maker Governance to allow admins to create and set custom asset listing strategies for each asset listing.
+SparkLend introduces a new system role - `ASSET_LISTING_ADMIN_ROLE` - that can be granted by the Maker Governance to allow admins to create and set custom asset listing strategies for each asset listing.
 
 ## Spark Interface
 

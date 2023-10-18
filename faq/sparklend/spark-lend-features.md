@@ -50,4 +50,4 @@ When E-mode is enabled, you will have higher borrowing power over assets of the 
 
 ### How can I use permit?
 
-With Spark Protocol, you can move your assets seamlessly between all Spark Protocol markets over different networks. The permit function of Spark Protocol allows you to move your funds from a wallet by simply signing an approval message instead of approving a transaction on the network to avoid gas fees.
+The permit function of SparkLend allows you to move your funds from a wallet by simply signing an approval message instead of approving a transaction on the network to avoid gas fees.

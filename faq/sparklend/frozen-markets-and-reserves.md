@@ -2,7 +2,7 @@
 
 ### How is a reserve or market frozen?
 
-A reserve on the Spark Protocol can be frozen by calling the [`setReserveFreeze`](https://github.com/aave/aave-v3-core/blob/ce90d8dabb10679fdd7f6875730d92bca1a6ad99/contracts/protocol/pool/PoolConfigurator.sol#L204) function on the PoolConfigurator contract, which is deployed for each Spark market. This function is callable by addresses with the `RiskAdmin` or `PoolAdmin` role, which is owned by Maker Governance (or Guardian multisig on networks without governance bridge), and can also be granted this role.
+A reserve on the SparkLend can be frozen by calling the [`setReserveFreeze`](https://github.com/aave/aave-v3-core/blob/ce90d8dabb10679fdd7f6875730d92bca1a6ad99/contracts/protocol/pool/PoolConfigurator.sol#L204) function on the PoolConfigurator contract, which is deployed for each Spark market. This function is callable by addresses with the `RiskAdmin` or `PoolAdmin` role, which is owned by Maker Governance (or Guardian multisig on networks without governance bridge), and can also be granted this role.
 
 ### What is a frozen reserve?
 
