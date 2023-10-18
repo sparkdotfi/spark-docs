@@ -12,7 +12,7 @@
     * [Testing SparkLend](faq/sparklend/testing-spark-lend.md)
     * [Troubleshooting](faq/sparklend/troubleshooting.md)
     * [Liquidations](faq/sparklend/liquidations.md)
-  * [DSR & sDAI](faq/sparklend/dsr-and-sdai.md)
+  * [DSR & sDAI](faq/dsr-and-sdai.md)
 
 ## 📃 Governance
 
