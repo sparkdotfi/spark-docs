@@ -27,6 +27,10 @@
 
 * [sDAI Overview](sdai/page-1.md)
 
+## 🚇 SparkConduits
+
+* [SparkConduits](sparkconduits/sparkconduits.md)
+
 ## 💻 Spark Developers
 
 * [Spark Developer Docs](https://devs.spark.fi/)
@@ -39,7 +43,3 @@
 * [SparkDAO Forum](https://forum.makerdao.com/c/spark-subdao/84)
 * [Spark Twitter](https://twitter.com/sparkdotfi)
 * [Spark Brand Assets / Press Kit](comms/brand-assets-press-kit.md)
-
-## 🚇 SparkConduits
-
-* [SparkConduits](sparkconduits/sparkconduits.md)
