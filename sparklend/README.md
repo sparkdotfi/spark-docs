@@ -6,7 +6,7 @@ SparkLend is decentralised non-custodial liquidity protocol where users can part
 
 We allow users to optimise their assets supplied to the SparkLend in terms of yield generation and borrowing power.
 
-### [Efficiency Mode (eMode)](sparklend/features/efficiency-mode-emode.md)
+### Efficiency Mode (eMode)
 
 The High Efficiency Mode or _**eMode**_ allows borrowers to extract the highest borrowing power out of their collateral when supplied and borrowed assets are correlated in price, particularly when both are derivatives of the same underlying asset (eg. stablecoins pegged to USD).
 
@@ -16,13 +16,13 @@ This can enabling a wave of new use cases such as High leverage forex trading, H
 Check out [eMode](sparklend/features/efficiency-mode-emode.md) for more technical details.
 {% endhint %}
 
-### [Isolation Mode](sparklend/features/isolation-mode.md)
+### Isolation Mode
 
 New assets can be listed as _**isolated**_. Borrowers supplying an isolated asset as collateral cannot supply other assets as collateral (though they can still supply to capture yield). Borrowers using an isolated collateral can only borrow stablecoins that have been permitted by the Maker Governance to be borrowable in isolation mode, up to a specified debt ceiling.
 
 ![](.gitbook/assets/image%20\(5\).png)
 
-### [Siloed Borrowing](sparklend/features/siloed-borrowing.md)
+### Siloed Borrowing
 
 Siloed borrowing allows assets with potentially manipulatable oracles to be listed on Spark as single borrow asset i.e. if a user borrows siloed asset, they cannot borrow any other asset. This helps mitigating the risk associated with such assets from impacting the overall solvency of the protocol. Please see the [Siloed Borrowing](sparklend/features/siloed-borrowing.md) page for more details.
 
@@ -30,7 +30,7 @@ Siloed borrowing allows assets with potentially manipulatable oracles to be list
 
 SparkLend brings a greatly improved set risk parameters and new features to protect the protocol from insolvency.
 
-### [Supply and Borrow Caps](sparklend/features/supply-borrow-caps.md)
+### Supply and Borrow Caps
 
 The Maker governance can now configure Borrow and Supply Caps.
 
@@ -62,10 +62,6 @@ The liquidation mechanism has been improved to allow the position to be fully li
 ## Decentralisation
 
 Spark Protocol introduces a new system role - `ASSET_LISTING_ADMIN_ROLE` - that can be granted by the Maker Governance to allow admins to create and set custom asset listing strategies for each asset listing.
-
-## Multiple Rewards Tokens
-
-Spark Protocol offers the option to have _**multiple rewards**_ per token. Now, it is possible for an asset listing to enable additional incentives denominated in native protocol tokens. It is also possible for user to claim multiple reward types per asset in single transaction. Read more in [Multiple Rewards section](sparklend/features/multiple-rewards-and-claim.md).
 
 ## Spark Interface
 

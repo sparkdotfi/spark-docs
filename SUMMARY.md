@@ -25,7 +25,7 @@
 
 ## 💸 sDAI
 
-* [sDAI Overview](sdai/page-1.md)
+* [sDAI Overview](sdai/sdai-overview.md)
 
 ## 🚇 SparkConduits
 
