@@ -29,12 +29,12 @@
 * [Data Analytics](https://devs.spark.fi/data-analytics/)
 * [Phoenix Labs' Job Board](https://phoenix-labs.notion.site/Phoenix-Labs-Job-Board-794d22cacbef4c9c963a5ca4b96d71c8?pvs=4)
 
-## Communication
+## Comms
 
 * [SparkDAO Discord](https://discord.gg/sparkdao)
 * [SparkDAO Forum](https://forum.makerdao.com/c/spark-subdao/84)
 * [Spark Twitter](https://twitter.com/sparkdotfi)
-* [Spark Brand Assets / Press Kit](brand-assets-press-kit.md)
+* [Spark Brand Assets / Press Kit](comms/brand-assets-press-kit.md)
 
 ## 💸 sDAI
 
