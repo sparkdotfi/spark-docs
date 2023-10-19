@@ -30,7 +30,7 @@ Each isolated asset will have a specific debt ceiling, which means that it is on
 
 ### High Efficiency Mode (E-mode)
 
-The E-mode feature maximizes capital efficiency when collateral and borrowed assets have correlated prices. For example, DAI, USDC, USDT are all stablecoins pegged to USD. These stablecoins are all within the same E-mode category. Accordingly, a user supplying DAI in E-mode will have higher collateralization power when borrowing assets like USDC or USDT.
+The E-mode feature maximizes capital efficiency when collateral and borrowed assets have correlated prices. For example, sDAI, USDC, USDT are all stablecoins pegged to USD. These stablecoins are all within the same E-mode category. Accordingly, a user supplying sDAI in E-mode will have higher collateralization power when borrowing assets like USDC or USDT.
 
 Only assets of the same category (for example stablecoins) can be borrowed in E-mode.
 
