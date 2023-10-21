@@ -1,4 +1,4 @@
-# 🌾 DSR & sDAI
+# DSR & sDAI
 
 ### What is DSR? <a href="#what-is-dsr" id="what-is-dsr"></a>
 

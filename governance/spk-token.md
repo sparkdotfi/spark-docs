@@ -1,4 +1,4 @@
-# SPK token
+# ☄ SPK token
 
 {% hint style="warning" %}
 The SPK token is not live yet, please beware of scammers.

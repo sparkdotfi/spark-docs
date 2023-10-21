@@ -1,4 +1,4 @@
-# SparkLend Overview
+# 🧺 SparkLend
 
 SparkLend is decentralised non-custodial liquidity protocol where users can participate as suppliers, borrowers or liquidators. Suppliers provide liquidity to a market and can earn interest on the crypto assets provided, while borrowers are able to borrow in an overcollateralized fashion. Borrowers can also engage in one-block borrow transactions (”flash loans”), which do not require overcollateralization.
 
@@ -13,18 +13,18 @@ The High Efficiency Mode or _**eMode**_ allows borrowers to extract the highest 
 This can enabling a wave of new use cases such as High leverage forex trading, Highly efficient yield farming (for example, deposit ETH staking derivatives to borrow ETH), Diversified risk management etc.
 
 {% hint style="info" %}
-Check out [eMode](sparklend/features/efficiency-mode-emode.md) for more technical details.
+Check out [eMode](../../sparklend/sparklend/features/efficiency-mode-emode.md) for more technical details.
 {% endhint %}
 
 ### Isolation Mode
 
 New assets can be listed as _**isolated**_. Borrowers supplying an isolated asset as collateral cannot supply other assets as collateral (though they can still supply to capture yield). Borrowers using an isolated collateral can only borrow stablecoins that have been permitted by the Maker Governance to be borrowable in isolation mode, up to a specified debt ceiling.
 
-![](.gitbook/assets/image%20\(5\).png)
+![](../../sparklend/.gitbook/assets/image%20\(5\).png)
 
 ### Siloed Borrowing
 
-Siloed borrowing allows assets with potentially manipulatable oracles to be listed on Spark as single borrow asset i.e. if a user borrows siloed asset, they cannot borrow any other asset. This helps mitigating the risk associated with such assets from impacting the overall solvency of the protocol. Please see the [Siloed Borrowing](sparklend/features/siloed-borrowing.md) page for more details.
+Siloed borrowing allows assets with potentially manipulatable oracles to be listed on Spark as single borrow asset i.e. if a user borrows siloed asset, they cannot borrow any other asset. This helps mitigating the risk associated with such assets from impacting the overall solvency of the protocol. Please see the [Siloed Borrowing](../../sparklend/sparklend/features/siloed-borrowing.md) page for more details.
 
 ## Risk Management
 
