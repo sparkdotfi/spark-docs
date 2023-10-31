@@ -16,9 +16,11 @@ layout:
 
 ## **Welcome to Spark!**
 
-**Spark** is on a mission to empower the DAI ecosystem. As part of the MakerDAO community, Spark builds and manages DeFi infrastructure.
+The next-gen DeFi infrastructure for DAI
 
-The 3 main DeFi infrastructure projects:
+**Spark** is on a mission to empower the DAI ecosystem. As part of the MakerDAO community.
+
+### DeFi Infrastructure
 
 * **SparkLend**: The DAI centric money market protocol. Combining the best liquidity directly from Maker and vertically integrating with the best DeFi protocols.
 * **sDAI** is a yield bearing stablecoin, representing DAI in the Dai Savings Rate (DSR) module, which distributes revenue from the Maker protocol to DAI holders.
