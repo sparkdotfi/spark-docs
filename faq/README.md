@@ -10,9 +10,30 @@
 
 No platform can be considered entirely risk-free. The risks related to the SparkLend platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimise the risk as much as possible, the protocol code is public and open source and it has been audited. Additionally, you can find additional security-related information in the [security and audits](https://devs.spark.fi/security-and-audits) sections.
 
-### Mobile App
+### Scams and fake accounts
 
-Be careful, Spark doesn't have any downloadable mobile application available. If you find one, it is a scam. Spark would not ask for your seed passphrase ever. Spark never advertises on any social media or search engine. If you see any advertisement, those are scams and phishing sites.
+Be careful, it is common for scammers to create social media accounts and websites that are intended to steal your funds. While the blockchain provides users with self-sovereignty, it also means that nothing can be done when a scammer steals user funds.&#x20;
+
+
+
+Spark legitimate domains are:
+
+* spark.fi
+* sparkprotocol.io (this is the initial domain used, it currently redirects to the above)
+
+Any subdomain based on the above domains will also be legitimate, such as docs.spark.fi
+
+
+
+Beware of the following:
+
+* Domains that look similar but are not **exactly** the same, it can be a single character or different top-level domain (.com, .net, .scam)
+* Clickable domains on social media, these can look legitimate on the platform, such as Twitter, but once clicked the user is redirected to a different domain.
+* People who contact you via social media, including Twitter, Telegram and LinkedIn claiming to be a contributor of Spark. Always verify their identity by asking on the public discord or with someone that you trust.
+* Websites without https (http does not provide encryption nor verification)
+* Any Spark mobile application
+* Any website asking you for your seed passphrase (you should not share this with anyone)&#x20;
+* Spark does not advertise on social media (e.g. tweets with "Ad" on the top right), on websites or search engines.
 
 ## SparkLend
 
