@@ -6,4 +6,4 @@ Flash loans are a feature designed for developers, due to the technical knowledg
 
 ## How to do a Flash Loan?
 
-If you would like to know more the procedure on how to do a Flash Loan, check out the [documentation](https://devs.spark.figuides/flash-loans).
+If you would like to know more the procedure on how to do a Flash Loan, check out the [developer documentation](https://app.gitbook.com/s/JoPOn9EuKR5wJyQRcvjo/sparklend/features/flash-loans).
