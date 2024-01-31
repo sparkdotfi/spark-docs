@@ -14,7 +14,6 @@
 * [🧺 SparkLend](defi-infrastructure/sparklend/README.md)
   * [Liquidations](defi-infrastructure/sparklend/liquidations.md)
   * [Testing SparkLend](defi-infrastructure/sparklend/testing-spark-lend.md)
-  * [Swap & Repay with collateral](defi-infrastructure/sparklend/swap-and-repay-with-collateral.md)
   * [Troubleshooting](defi-infrastructure/sparklend/troubleshooting.md)
   * [Borrowing](defi-infrastructure/sparklend/borrowing.md)
   * [Flash Loans](defi-infrastructure/sparklend/flash-loans.md)
