@@ -1,7 +1,11 @@
 # ☄ SPK token
 
 {% hint style="warning" %}
-The SPK token is not live yet, please beware of scammers.
+The SPK token is not released yet, please beware of scammers.
+{% endhint %}
+
+{% hint style="info" %}
+SPK airdrop is ongoing, see current stats at [BlockAnalitica's website](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
 {% endhint %}
 
 The SPK token is the governance token for SparkDAO.
@@ -14,4 +18,4 @@ There is an airdrop incentive program currently running for SparkLend users that
 
 Please be aware that details of the airdrop and token farming may change.
 
-You can find the current information about the airdrop in [BlockAnalitica's website](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
+You can find the current balances of users eligble for the airdrop through depositing ETH and/or borrowing DAI in the [BlockAnalitica's website](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
