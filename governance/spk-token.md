@@ -13,3 +13,5 @@ The subDAO launch will be accompanied by the launch of the token farming program
 There is an airdrop incentive program currently running for SparkLend users that either deposit ETH and/or borrow DAI, for more information please see the following forum post [Proposed Spark Pre-farming Airdrop Formula](https://forum.makerdao.com/t/proposed-spark-pre-farming-airdrop-formula/21786).
 
 Please be aware that details of the airdrop and token farming may change.
+
+You can find the current information about the airdrop in [BlockAnalitica's website](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
