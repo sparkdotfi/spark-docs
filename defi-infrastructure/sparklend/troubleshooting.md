@@ -2,13 +2,13 @@
 
 ## I cannot connect to the platform
 
-* Make sure to select the correct network (Ethereum Mainnet or Ethereum Goerli Testnet). Normally on the wallet provider you can switch the network in the settings option.
-* On Ledger natively or over Metamask:
+* Make sure to select the correct network (Ethereum Mainnet or Gnosis Chain). Normally on the wallet provider you can switch the network in the settings option.
+* On a non-custodial wallet app (e.g. Rabby):
   * Make sure to unlock and select Ethereum app.
   * Make sure contract data is allowed on the Ethereum app settings.
-* Coinbase
+* On custodial wallet app (e.g. Coinbase):
   * Use the scan QR option to connect.
-  * If you want to access directly from Coinbase wallet just go to app.spark.fi on the browser within the app.
+  * If you want to access directly from the wallet browser, just go to app.spark.fi.
 * Wallet connect
   * Use the scan QR code to connect
 
@@ -38,7 +38,7 @@ The following steps may solve your problems:
 * If you are using Brave browser, switch to another browser to see if the issues are coming from the browser. If it is related to Brave browser some helpful actions are:
   * Clearing cache data and cookies for the site
   * Hard refresh with control + F5 (or cmd + r)
-  * Disable brave wallet (or the wallet not being used as default, for example metamask, dapper, etc.)or other extensions that might be interfering with proper connection with the wallet
+  * Disable brave wallet (or the wallet not being used as default, e.g. metamask) or other extensions that might be interfering with proper connection with the wallet
   * If the site still won't load after taking the steps above, you will have to use the platform in another browser.
 * Make sure your internet connection is working and stable
 * Restart the browser and try to connect again

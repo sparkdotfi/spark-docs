@@ -14,19 +14,15 @@ The maximum amount you can borrow depends on the value you have supplied and the
 
 ## What asset do I need to repay?
 
-You repay your loan in the same asset you borrowed. For example, if you borrow 1 ETH you will pay back 1 ETH + interest accrued. If you want to pay back the loan based on USD price you can borrow any of the available stable coins as USDC, DAI, USDT, etc.
+You repay your loan in the same asset you borrowed. For example, if you borrow 1 ETH you will pay back 1 ETH + interest accrued. If you want to pay back the loan based on USD price you can borrow any of the available stablecoins as DAI, sDAI, USDC and USDT.
 
-## What is the difference between stable and variable rate?
+## What is the difference between predictable and variable rate?
 
-Stable rates act as a fixed rate in the short-term, but can be re-balanced in the long-term in response to changes in market conditions. The variable rate is the rate based on the offer and demand in Spark. The stable rate, as its name indicates, will remain pretty stable and it is the best option to plan how much interest you will have to pay. The variable rate will change over time and could be the optimal rate depending on market conditions. You can switch between the stable and variable rate at any time through your dashboard.
-
-## How do I switch my interest rate type?
-
-To switch your interest rate between stable and variable rate, simply browse to your dashboard and click on the “APR Type” switch button for the asset you wish to apply the rate change.
+Predictable rates act as a fixed rate in the short-term, but will change based on a MakerDAO governance decision. The variable rate is the rate based on the offer and demand in SparkLend, and will constantly change.
 
 ## How much would I pay in interest?
 
-The interest rate you pay for borrowing assets depends on the borrowing rate which is derived from the supply and demand ratio of the asset. Moreover, the interest rate of a variable rate changes constantly, whereas stable interest rate provides stability for the interest rates. You can find your current borrowing rate at any time in the Borrowings section of your dashboard.
+The interest rate you pay for borrowing assets depends on the borrowing rate which is derived from the supply and demand ratio of the asset in the case of the variable rate; for predictable rate assets (DAI), the borrowing rate is defined by MakerDAO governance. The interest rate of a variable rate changes constantly. You can find your current borrowing rate at any time in the Borrowings section of your dashboard.
 
 ## What is the health factor?
 
