@@ -43,7 +43,7 @@ In SparkLend, it will be possible to lower the borrowing power of any asset to a
 
 ### Risk Admins
 
-SparkLend introduces the ability for the Maker Governance to grant entities permission to update the risk parameters with going through governance vote for every change. These entities can be DAOs or automated agents (eg. RiskDAO, Gauntlet) that can build on top of this feature to react automatically in case of unanticipated events.
+SparkLend introduces the ability for the Maker Governance to grant entities permission to update the risk parameters with going through governance vote for every change. These entities can be DAOs or automated agents that can build on top of this feature to react automatically in case of unanticipated events.
 
 {% hint style="info" %}
 Maker Governance will have the ability to revoke access to existing Risk Admins or add new Risk Admins.
