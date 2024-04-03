@@ -13,14 +13,14 @@ The liquidation penalty (or bonus for liquidators) depends on the asset used as 
 Sure! A couple of them here:
 
 **Example 1**\
-\*\*\*\*Bob deposits 10 ETH and borrows 5 ETH worth of DAI.\
+Bob deposits 10 ETH and borrows 5 ETH worth of DAI.\
 If Bob’s Health Factor drops below 1 his loan will be eligible for liquidation.\
 A liquidator can repay up to 50% of a single borrowed amount = 2.5 ETH worth of DAI.\
 In return, the liquidator can claim a single collateral which is ETH (5% bonus).\
 The liquidator claims 2.5 + 0.125 ETH for repaying 2.5 ETH worth of DAI.
 
 **Example 2**\
-\*\*\*\*Bob deposits 5 ETH and 4 ETH worth of YFI, and borrows 5 ETH worth of DAI\
+Bob deposits 5 ETH and 4 ETH worth of YFI, and borrows 5 ETH worth of DAI\
 If Bob’s Health Factor drops below 1 his loan will be eligible for liquidation.\
 A liquidator can repay up to 50% of a single borrowed amount = 2.5 ETH worth of DAI.\
 In return, the liquidator can claim a single collateral, as the liquidation bonus is higher for YFI (15%) than ETH (5%) the liquidator chooses to claim YFI.\

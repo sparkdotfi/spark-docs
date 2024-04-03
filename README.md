@@ -12,13 +12,13 @@ layout:
     visible: true
 ---
 
-# 🏠 Spark Documentation
+# 🏠 Spark User Docs
 
 ## **Welcome to Spark!**
 
-The next-gen DeFi infrastructure for DAI
+The next-gen DeFi infrastructure for DAI.
 
-**Spark** is on a mission to empower the DAI ecosystem. As part of the MakerDAO community.
+**Spark** is on a mission to empower the DAI ecosystem, as part of the MakerDAO community.
 
 ### DeFi Infrastructure
 

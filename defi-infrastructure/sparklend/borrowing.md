@@ -20,7 +20,7 @@ You repay your loan in the same asset you borrowed. For example, if you borrow 1
 
 Predictable rates act as a fixed rate in the short-term, but will change based on a MakerDAO governance decision. The variable rate is the rate based on the offer and demand in SparkLend, and will constantly change.
 
-## How much would I pay in interest?
+## How much will I pay in interest?
 
 The interest rate you pay for borrowing assets depends on the borrowing rate which is derived from the supply and demand ratio of the asset in the case of the variable rate; for predictable rate assets (DAI), the borrowing rate is defined by MakerDAO governance. The interest rate of a variable rate changes constantly. You can find your current borrowing rate at any time in the Borrowings section of your dashboard.
 
@@ -43,6 +43,10 @@ In order to payback the loan you simply go to the Borrowings section of your das
 ## How do I avoid liquidation?
 
 In order to avoid the reduction of your health factor leading to liquidation, you can repay the loan or deposit more assets in order to increase your health factor. Out of these two available options, repaying the loan would increase your health factor more.
+
+## How can I use permit?
+
+The permit function of SparkLend allows you to move your funds from a wallet by simply signing an approval message instead of approving a transaction on the network to avoid gas fees.
 
 {% hint style="info" %}
 If you still have any questions or issues, feel free to reach the Spark team over the official [discord](https://discord.gg/sparkdao).
