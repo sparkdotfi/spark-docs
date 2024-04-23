@@ -1,4 +1,4 @@
-# 🗞 Brand Assets | Press Kit
+# Brand Assets | Press Kit
 
 ## Spark Logo
 

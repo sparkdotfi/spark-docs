@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🏠 Spark User Docs
+# Home
 
 ## **Welcome to Spark!**
 
