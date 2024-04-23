@@ -4,7 +4,7 @@ description: Learn how to find details on the supported lending markets on Spark
 
 # Overview of Markets
 
-The Markets Page displays an overview of the state of the protocol and the supported assets. The data is specific to the selected network, so if you wish to browse another network, use the network toggle in the top right hand corner.
+The **Markets** page displays an overview of the state of the protocol and the supported assets. The displayed data is specific to the selected network, so if you wish to browse another network, use the network toggle in the top right hand corner.
 
 The Markets page displays:
 

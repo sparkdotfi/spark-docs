@@ -4,11 +4,11 @@ description: Learn how to maximize the savings on your stablecoin holdings.
 
 # Earning Dai Savings Rate
 
-Spark enables users to easily deposit stablecoins into savings, and receive Savings Dai (sDAI) tokens in return. The sDai tokens represents your share of Dai in the Dai Savings Rate. As savings accrue, sDAI increases in value over time. The Dai Savings Rate is set by Maker Governance. [You can read more about sDai here.](../../defi-infrastructure/sdai-overview.md)
+Spark enables users to easily deposit stablecoins into savings, and receive Savings Dai (sDAI) tokens in return. The sDAI tokens represents your share of Dai in the Dai Savings Rate. As savings accrue, sDAI increases in value over time. The Dai Savings Rate is set by Maker Governance. [You can read more about sDAI here.](../../defi-infrastructure/sdai-overview.md)
 
 ## Deposit Savings
 
-1.  To earn yield on your stablecoins such as DAI, USDC and USDT, navigate to the “Cash & Savings” page.\
+1.  To earn yield on your stablecoins such as DAI, USDC and USDT, navigate to the **Cash & Savings** page.\
 
 
     <figure><img src="../../.gitbook/assets/cash-savings-page.png" alt=""><figcaption><p>Cash and Savings Page</p></figcaption></figure>
@@ -16,9 +16,9 @@ Spark enables users to easily deposit stablecoins into savings, and receive Savi
 
 2. If you have stablecoins in your wallet, the UI will show you the savings opportunity based on your holdings. It shows the current Dai Savings Rate (DSR), a 30 day projected savings and a 1-year projected savings.\
 
-3. To deposit stablecoins, you navigate to the “Cash in wallet” section, which displays the stablecoin holdings in your wallet, and click on the deposit button for the asset you wish to deposit.\
+3. To deposit stablecoins, you navigate to the **Cash in wallet** section, which displays the stablecoin holdings in your wallet, and click on the deposit button for the asset you wish to deposit.\
 
-4.  In the deposit window you specify the stablecoin (dropdown) and amount (input) you wish to deposit. To finalize the deposit you must execute the transactions in the “Actions” window.\
+4.  In the deposit window you specify the stablecoin (dropdown) and amount (input) you wish to deposit. To finalize the deposit you must execute the transactions in the **Actions** section.\
 
 
     <figure><img src="../../.gitbook/assets/deposit-savings.png" alt=""><figcaption><p>Depositing DAI, and receiving sDAI</p></figcaption></figure>
@@ -38,7 +38,7 @@ Spark enables users to easily deposit stablecoins into savings, and receive Savi
 
 ## Withdraw Savings
 
-1.  When you wish to withdraw accrued savings, you simply click on the withdraw button in the Savings DAI window. In the withdraw window you specify the asset and amount you wish to withdraw. To finalize the withdrawal you must execute the transactions in the “Actions” section.\
+1.  When you wish to withdraw accrued savings, you simply click on the withdraw button in the Savings DAI window. In the withdraw window you specify the asset and amount you wish to withdraw. To finalize the withdrawal you must execute the transactions in the **Actions** section.\
 
 
     <figure><img src="../../.gitbook/assets/withdraw-savings.png" alt=""><figcaption><p>Withdraw from Savings</p></figcaption></figure>
