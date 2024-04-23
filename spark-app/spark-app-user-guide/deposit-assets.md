@@ -20,6 +20,8 @@ In order to borrow other assets than Dai, you must first deposit assets as colla
     * **APY:** The current annual percentage yield. Deposited assets can be borrowed by other users, and therefore earns yield.
 
     <figure><img src="../../.gitbook/assets/deposit-section (1).png" alt=""><figcaption><p>Deposit Section</p></figcaption></figure>
+
+
 3. You deposit assets by clicking on the Deposit button for the corresponding asset, which will open the **Deposit window**.\
 
 4. The **Deposit window** will display:
@@ -28,7 +30,9 @@ In order to borrow other assets than Dai, you must first deposit assets as colla
    *   **Actions**: An overview of the necessary transactions you must do to create the deposit.\
 
 
-       <figure><img src="../../.gitbook/assets/deposit-wbtc-col.png" alt=""><figcaption><p>Deposit Window<br></p></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/deposit-wbtc-col.png" alt=""><figcaption><p>Deposit Window</p></figcaption></figure>
+
+
 5.  Once you deposit assets, the position will be updated, which is reflected in the Health Factor and overview in **Your position**.\
 
 
