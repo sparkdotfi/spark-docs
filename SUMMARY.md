@@ -3,6 +3,17 @@
 * [🏠 Spark User Docs](README.md)
 * [🦣 FAQ](faq.md)
 
+## Spark App
+
+* [Spark App User Guide](spark-app/spark-app-user-guide/README.md)
+  * [Borrowing Dai](spark-app/spark-app-user-guide/borrowing-dai.md)
+  * [Adjusting Your Position](spark-app/spark-app-user-guide/adjusting-your-position.md)
+  * [Deposit Assets](spark-app/spark-app-user-guide/deposit-assets.md)
+  * [Borrow Assets](spark-app/spark-app-user-guide/borrow-assets.md)
+  * [Repaying Your Loan](spark-app/spark-app-user-guide/repaying-your-loan.md)
+  * [Earning Dai Savings Rate](spark-app/spark-app-user-guide/earning-dai-savings-rate.md)
+  * [Overview of Markets](spark-app/spark-app-user-guide/overview-of-markets.md)
+
 ## DeFi Infrastructure
 
 * [🧺 SparkLend](defi-infrastructure/sparklend/README.md)

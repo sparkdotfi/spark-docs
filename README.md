@@ -26,7 +26,9 @@ The next-gen DeFi infrastructure for DAI.
 * **sDAI** is a yield bearing stablecoin, representing DAI in the Dai Savings Rate (DSR) module, which distributes revenue from the Maker protocol to DAI holders.
 * **SparkConduits** allow for direct liquidity from Maker to protocols as part of the overall Maker Allocation System.
 
-**SparkDAO** is a Maker Allocator subDAO that owns and manages Spark through decentralised governance. Its launch, alongside the other subDAOs, is scheduled for May 2024.
+[Learn how to use the Spark App here.](spark-app/spark-app-user-guide/)
+
+**SparkDAO** is a Maker Allocator subDAO that owns and manages Spark through decentralised governance.
 
 ***
 
