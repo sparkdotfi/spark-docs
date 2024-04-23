@@ -23,3 +23,5 @@ description: Learn how to repay your loans on Spark.
 5. The **Actions** section will guide you through the necessary transactions to repay the loan.\
 
 6. Once you have done all the necessary transactions, the specified amount of assets will be transferred from your wallet and be repaid to the pool. Your overall position will be updated, which is reflected in the **Health Factor** and overview in **Your position**.
+
+For more information on the repayment mechanics, see the [SparkLend borrowing documentation](../../defi-infrastructure/sparklend/borrowing.md).

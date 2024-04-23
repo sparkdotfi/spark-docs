@@ -13,7 +13,7 @@ description: Find answers to common issues
 * On custodial wallet app (e.g. Coinbase):
   * Use the scan QR option to connect.
   * If you want to access directly from the wallet browser, just go to app.spark.fi.
-* Wallet connect
+* Using Wallet Connect:
   * Use the scan QR code to connect
 
 ## Enable contract data on Ledger
@@ -33,13 +33,13 @@ To enable contract data:
 
 ## I cannot send transactions
 
-Make sure you have enough ETH in your wallet to interact with the platform. You must have ETH in your wallet to pay the transaction fees. Depending on the network status, the cost of the transactions may vary. At least 0.05 ETH may be required to interact properly.
+Make sure you have enough ETH in your wallet to pay the transaction fees. Depending on the network status, the cost of the transactions may vary. At least 0.05 ETH may be required to interact properly.
 
 ## The site does not load
 
 The following steps may solve your problems:
 
-* If you are using Brave browser, switch to another browser to see if the issues are coming from the browser. If it is related to Brave browser some helpful actions are:
+* If you are using Brave browser, switch to another browser to see if the issues are related to Brave. If it is related to Brave browser some helpful actions are:
   * Clearing cache data and cookies for the site
   * Hard refresh with control + F5 (or cmd + r)
   * Disable brave wallet (or the wallet not being used as default, e.g. metamask) or other extensions that might be interfering with proper connection with the wallet
@@ -60,5 +60,5 @@ Alternatively, if your wallet provider doesn't have this option, you can still d
 Here are a couple of guides about the topic for [MEW ](https://kb.myetherwallet.com/en/transactions/checking-or-replacing-a-tx-after-sending/)and [MyCrypto](https://support.mycrypto.com/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent).
 
 {% hint style="info" %}
-If you still have any questions or issues, feel free to reach the Spark team over the official [discord](https://discord.gg/sparkdao).
+If you still have any questions or issues, feel free to reach out to the Spark team on the official [Discord](https://discord.com/sparkdao).
 {% endhint %}

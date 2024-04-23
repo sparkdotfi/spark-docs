@@ -47,3 +47,5 @@ If you wish to borrow Dai you can use the **Easy Borrow Flow** on the **Borrow**
 
 
 7. If you wish to borrow more assets at a later stage, you simply repeat this process.
+
+For more information on the borrow mechanics, see the [SparkLend borrowing documentation](../../defi-infrastructure/sparklend/borrowing.md).
