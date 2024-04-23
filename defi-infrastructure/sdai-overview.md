@@ -14,9 +14,11 @@ To acquire sDAI you can deposit Dai and other stablecoins using the [Spark App](
 
 For technical documentation on the sDAI implementation please refer to the [Developer docs](https://devs.spark.fi/sdai/technical-docs).
 
-### What is Dai Savings Rate? <a href="#what-is-dsr" id="what-is-dsr"></a>
+### What is the Dai Savings Rate? <a href="#what-is-dsr" id="what-is-dsr"></a>
 
-Dai Savings Rate (DSR) is a feature of the Maker Protocol that enables any Dai holder to earn a savings rate on their Dai. Dai does not automatically earn savings - you must activate the DSR by depositing Dai into the Dai Savings Rate contract. The Dai is not locked and can always be instantly withdrawn.
+Dai Savings Rate (DSR) is a feature of the Maker Protocol that enables any Dai holder to earn a savings rate on their Dai. The DSR is paid out in Dai.
+
+Dai does not automatically earn savings, you must activate the DSR by depositing Dai into the Dai Savings Rate contract. The Dai is not locked and can always be instantly withdrawn.
 
 The Dai Savings Rate is funded by the borrowing fees accrued by the Maker Protocol. You can always find the current Dai Savings Rate on the [Cash and Savings page in the Spark App](http://app.spark.fi/savings).
 
