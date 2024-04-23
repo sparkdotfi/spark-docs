@@ -67,7 +67,7 @@ On the **Borrow** page, you can borrow Dai, by depositing crypto assets as colla
 
 
 
-You can find additional information on the SparkLend borrow mechanics[ here](../../defi-infrastructure/sparklend/borrowing.md).
+You can find additional information on the SparkLend borrow mechanics [here](../../defi-infrastructure/sparklend/borrowing.md).
 
 [^1]: The **Health Factor** is a measure of how close the position is to liquidation based on the current LTV. A Health Factor **below 1** means the position can be liquidated. Users are responsible for keeping a Health Factor above 1, in order to avoid liquidation. The LTV of the position can change over time if the underlying collateral changes in value, and as debt accrues due to interest rates.
 

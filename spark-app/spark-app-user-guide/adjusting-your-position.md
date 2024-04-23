@@ -50,6 +50,8 @@ Having an active borrow position on Spark requires ongoing monitoring and manage
 
         <figure><img src="../../.gitbook/assets/borrow-section.png" alt=""><figcaption><p>Borrow Section</p></figcaption></figure>
 
+
+
     For example, if your position is close to liquidation you can either repay some of fully your loan, or deposit more collateral. See the [deposit assets](deposit-assets.md) and [borrow asset](borrow-assets.md) sections for the step by step guide.\
 
-5. If your position is liquidated, you position will be updated accordingly automatically. Depending on the situation you will still have deposit and borrow balances. [You can read more about liquidations here](../../defi-infrastructure/sparklend/liquidations.md).
+5. If your position is liquidated, your position will be updated accordingly and automatically. Depending on the exact situation for the liquidation you might still have an open borrow position. [You can read more about liquidations here](../../defi-infrastructure/sparklend/liquidations.md).
