@@ -28,7 +28,7 @@ The next-gen DeFi infrastructure for DAI.
 
 [Learn how to use the Spark App here.](spark-app/spark-app-user-guide/)
 
-**SparkDAO** is a Maker Allocator subDAO that owns and manages Spark through decentralised governance.
+**Spark** is a Maker Allocator SubDAO that owns and manages Spark through decentralized governance.
 
 ***
 

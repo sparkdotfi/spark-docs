@@ -13,9 +13,11 @@
   * [Repaying Your Loan](spark-app/spark-app-user-guide/repaying-your-loan.md)
   * [Earning Dai Savings Rate](spark-app/spark-app-user-guide/earning-dai-savings-rate.md)
   * [Overview of Markets](spark-app/spark-app-user-guide/overview-of-markets.md)
+  * [Troubleshooting](spark-app/spark-app-user-guide/troubleshooting.md)
 
 ## DeFi Infrastructure
 
+* [sDAI](defi-infrastructure/sdai-overview.md)
 * [SparkLend](defi-infrastructure/sparklend/README.md)
   * [Supplying & Earning](defi-infrastructure/sparklend/supplying-and-earning.md)
   * [Borrowing](defi-infrastructure/sparklend/borrowing.md)
@@ -24,14 +26,12 @@
   * [Liquidations](defi-infrastructure/sparklend/liquidations.md)
   * [Flash Loans](defi-infrastructure/sparklend/flash-loans.md)
   * [Frozen Markets and Reserves](defi-infrastructure/sparklend/frozen-markets-and-reserves.md)
-  * [Troubleshooting](defi-infrastructure/sparklend/troubleshooting.md)
-* [sDAI](defi-infrastructure/sdai-overview.md)
 * [SparkConduits](defi-infrastructure/sparkconduits.md)
 
 ## Governance
 
-* [SparkDAO](governance/sparkdao.md)
-* [SPK token](governance/spk-token.md)
+* [Spark SubDAO](governance/sparkdao.md)
+* [SPK Token](governance/spk-token.md)
 
 ## Spark Developers
 

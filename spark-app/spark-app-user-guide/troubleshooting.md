@@ -1,3 +1,7 @@
+---
+description: Find answers to common issues
+---
+
 # Troubleshooting
 
 ## I cannot connect to the platform
@@ -14,7 +18,7 @@
 
 ## Enable contract data on Ledger
 
-Make sure to select the Ethereum app and enable contract data.
+If you are using a Ledger hardware wallet, make sure to select the Ethereum app and enable contract data.
 
 To enable contract data:
 
@@ -29,7 +33,7 @@ To enable contract data:
 
 ## I cannot send transactions
 
-Make sure you have enough ETH in your wallet to interact with the platform.You must have ETH in your wallet for the transaction costs-- without it you won't be able to interact. Depending on the network status, the cost of the transactions may vary. At least 0.05 ETH may be required to interact properly.
+Make sure you have enough ETH in your wallet to interact with the platform. You must have ETH in your wallet to pay the transaction fees. Depending on the network status, the cost of the transactions may vary. At least 0.05 ETH may be required to interact properly.
 
 ## The site does not load
 
@@ -49,9 +53,9 @@ The following steps may solve your problems:
 
 In this situation make sure to not keep sending transactions, as every new transaction will be stuck pending the oldest transaction to be confirmed. You can get rid of the stuck transaction by speeding it up or cancelling it. Depending on the wallet you are using, you may have that option natively.
 
-For example, metamask or trust wallet have both the options to cancel or speed up transactions.
+For example, Metamask or Trust Wallet both have the options to cancel or speed up transactions.
 
-Alternatively, if your wallet provider doesn't have this option, you can still drop the stuck transaction by sending a 0 ETH transaction, to your address (to yourself) using the same nonce (number id). You can inspect the nonce in your transaction in [Etherscan](https://etherscan.io) and use interfaces such as [MEW](https://www.myetherwallet.com/) and [MyCrypto ](https://mycrypto.com/)to send this transaction with a higher gas cost and replace the one that is stuck.
+Alternatively, if your wallet provider doesn't have this option, you can still drop the stuck transaction by sending a 0 ETH transaction, to your address (yourself) using the same nonce (number id) as the stuck transaction. You can inspect the nonce in your stuck transaction in [Etherscan](https://etherscan.io) and use interfaces such as [MEW](https://www.myetherwallet.com/) and [MyCrypto ](https://mycrypto.com/)to send a 0 ETH transaction with a higher gas cost to replace the one that is stuck.
 
 Here are a couple of guides about the topic for [MEW ](https://kb.myetherwallet.com/en/transactions/checking-or-replacing-a-tx-after-sending/)and [MyCrypto](https://support.mycrypto.com/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent).
 
