@@ -5,7 +5,7 @@ The SPK token is not released yet, please beware of scammers.
 {% endhint %}
 
 {% hint style="info" %}
-SPK airdrop is ongoing, see current stats at [BlockAnalitica's website](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
+SPK pre-farming airdrop is ongoing, see current stats at [BlockAnalitica's website](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
 {% endhint %}
 
 ## What is SPK?
