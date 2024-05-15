@@ -31,7 +31,7 @@
 ## Governance
 
 * [Spark SubDAO](governance/sparkdao.md)
-* [SPK Token](governance/spk-token.md)
+* [SPK Token & Airdrop FAQ](governance/spk-token.md)
 
 ## Spark Developers
 
