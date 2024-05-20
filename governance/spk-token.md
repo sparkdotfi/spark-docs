@@ -26,21 +26,48 @@ Spark is running a pre-farming airdrop campaign based on usage of its lending pl
 
 ### Season 1 (Aug 20, 2023 - May 20, 2024)
 
-In season 1 30M SPK will be allocated to users who qualify for the airdrop.
+In season 1 60M SPK will be allocated to users who qualify for the airdrop.
 
-* 80 % (24M) is allocated to users borrowing DAI
-* 20 % (6M) is allocated to users supplying ETH.
+* 80 % (48M) is allocated to users borrowing DAI
+* 20 % (12M) is allocated to users supplying ETH.
 
-Season 1 is a pre-farming period of 9 months active from Aug 20 2023 14:25 UTC (Ethereum block 17956537) to May 20 2024 14:25 UTC.
+Season 1 is a pre-farming period of 9 months active from Aug 20 2023 14:25 UTC (Ethereum block 17956537) to May 20 2024 14:25 UTC.\
+\
+**Note:** In season 1 the [airdrop formula](spk-token.md#how-much-spk-will-i-earn) is used across the entire time period, so your allocation will be based on the qualifying amount and how long it was borrowed/supplied, and will be rewarded retroactively.
 
 ### Season 2 (May 20, 2024 - SubDAO Launch TBD)
 
-In season 2 3.33M SPK will be rewarded per month to users who qualify for the airdrop.
+In season 2 6.66M SPK will be rewarded per month to users who qualify for the airdrop.
 
 * 80 % is allocated to users borrowing DAI
 * 20 % is allocated to users supplying ETH.
 
 Season 2 is an additional pre-farming period, which runs until the Spark SubDAO launches as part of Maker Endgame launch season.
+
+**Note:** In season 2, the [airdrop formula](spk-token.md#how-much-spk-will-i-earn) will be applied per block, meaning you will accrue SPK each block, based on the qualifying amount borrowed/supplied.
+
+## What will the total supply of SPK be?
+
+The SPK emissions follow the rules set forth in [MIP101: Maker Atlas Immutable Alignment Artifact](https://forum.makerdao.com/t/mip102c2-sp21-mip-amendment-subproposal/23039/5#h-4312-allocatordao-emissions-107) as part of the Maker Endgame, which states that **4.6 billion SPK tokens will be emitted over the first 10 years**. 4 billion tokens are emitted through Genesis farming, which gradually decreases over time, and 600 million tokens are allocated to a workforce bonus pool. See the allocation chart below:
+
+<figure><img src="https://lh7-us.googleusercontent.com/Z2TNoqqBEAX74fQs7KrfEuyceN7_Qmz_hZ79r8lVZzdZYvQu7I5HHTT5Iyz8b1AUYMU44N7t_wnNdfkR-5mKZb_rsy159dudWxjlAOYAIcOLVp_G6vnrlyeZhDPMczICv0UEF-SBMadzc6p5iwCCU8M" alt=""><figcaption><p>SPK Genesis Distribution</p></figcaption></figure>
+
+The Genesis farming follow the following emission schedule:
+
+| <p><br></p> | Yearly Amount of SPK (in millions) | Total Amount of SPK (in millions) |
+| ----------- | ---------------------------------- | --------------------------------- |
+| Year 1      | 1000                               | 1000                              |
+| Year 2      | 1000                               | 2000                              |
+| Year 3      | 500                                | 2500                              |
+| Year 4      | 500                                | 3000                              |
+| Year 5      | 250                                | 3250                              |
+| Year 6      | 250                                | 3500                              |
+| Year 7      | 125                                | 3625                              |
+| Year 8      | 125                                | 3750                              |
+| Year 9      | 125                                | 3875                              |
+| Year 10     | 125                                | 4000                              |
+
+<figure><img src="https://lh7-us.googleusercontent.com/wlhK-TUh8Hfrm8bhvMGjK1S2s6mlOu2tYB96hVDrfFT-4fkcPLIP3dEImbCGpGIb9QvZkCRmBX3s4gzq0w7hTOowmBkMRXTiVs4GA_wfMDWYpCVMJzXmPSP7CORN-4WzMjXBoqZKcdxXsP8TSWJF9ts" alt=""><figcaption><p>SPK Emissions Over First 10 Years</p></figcaption></figure>
 
 ## How do I qualify for the SPK airdrop?
 
