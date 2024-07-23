@@ -33,6 +33,10 @@
 * [Spark SubDAO](governance/sparkdao.md)
 * [SPK Token & Airdrop FAQ](governance/spk-token.md)
 
+## Rewards
+
+* [Lido-Spark Rewards Program FAQ](rewards/spk-token.md)
+
 ## Spark Developers
 
 * [Spark Developer Docs](https://devs.spark.fi/)
