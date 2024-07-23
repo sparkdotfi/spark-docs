@@ -35,7 +35,7 @@
 
 ## Rewards
 
-* [Lido-Spark Rewards Program FAQ](rewards/spk-token.md)
+* [Lido-Spark Rewards Program FAQ](rewards/lido-spark-rewards-program-faq.md)
 
 ## Spark Developers
 

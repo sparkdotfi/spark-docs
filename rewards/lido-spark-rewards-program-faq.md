@@ -51,5 +51,3 @@ There is no deadline for claiming rewards.
 ## Where can I find technical documentation for the rewards smart contracts?
 
 Developers can find technical documentation for the rewards smart contracts here: [https://devs.spark.fi/sparklend/periphery-contracts/rewardscontroller](https://devs.spark.fi/sparklend/periphery-contracts/rewardscontroller)&#x20;
-
-\
