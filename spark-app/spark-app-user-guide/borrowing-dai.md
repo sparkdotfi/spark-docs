@@ -34,7 +34,7 @@ On the **Borrow** page, you can borrow Dai, by depositing crypto assets as colla
     * **The LTV slider:** Shows the current LTV percentage and its associated risk level ranging from Conservative to Moderate to Aggressive. You can drag the slider to adjust the borrow amount to specify an LTV percentage, which will adjust the Dai borrow amount above accordingly.
     * **Liquidation Indicator**: The LTV slider also shows the LTV at which the position can be liquidated. The different collateral assets have a different liquidation LTV. Creating a position with multiple collateral assets will use an aggregate liquidation LTV based on the amount of each collateral.
     * **Max LTV:** The maximum allowed percentage value of the borrow amount in USD in respect to the collateral amount in USD.
-    * **Borrow rate:** The annual percentage rate (APR) for borrowing Dai. For Dai specifically, this rate is set by Maker Governance.
+    * **Borrow rate:** The annual percentage rate (APR) for borrowing Dai. For Dai specifically, this rate is set by Sky Governance.
 
     **Note:** Crypto assets are volatile so even conservative borrow positions should be monitored on an ongoing basis to prevent unwanted liquidations. [You can read more about liquidations here.](../../defi-infrastructure/sparklend/liquidations.md)\
 

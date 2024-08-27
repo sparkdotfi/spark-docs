@@ -18,11 +18,11 @@ You repay your loan in the same asset you borrowed. For example, if you borrow 1
 
 ## What is the difference between predictable and variable rate?
 
-Predictable rates act as a fixed rate in the short-term, but will change based on a MakerDAO governance decision. The variable rate is the rate based on the offer and demand in SparkLend, and will constantly change.
+Predictable rates act as a fixed rate in the short-term, but will change based on Sky Governance. The variable rate is the rate based on the offer and demand in SparkLend, and will constantly change.
 
 ## How much will I pay in interest?
 
-The interest rate you pay for borrowing assets depends on the borrowing rate which is derived from the supply and demand ratio of the asset in the case of the variable rate; for predictable rate assets (DAI), the borrowing rate is defined by MakerDAO governance. The interest rate of a variable rate changes constantly. You can find your current borrowing rate at any time in the Borrowings section of your dashboard.
+The interest rate you pay for borrowing assets depends on the borrowing rate which is derived from the supply and demand ratio of the asset in the case of the variable rate; for predictable rate assets (DAI), the borrowing rate is defined by Sky Governance. The interest rate of a variable rate changes constantly. You can find your current borrowing rate at any time in the Borrowings section of your dashboard.
 
 ## What is the health factor?
 

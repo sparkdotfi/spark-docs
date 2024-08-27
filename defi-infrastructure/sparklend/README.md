@@ -18,7 +18,7 @@ Check out [eMode](../../sparklend/sparklend/features/efficiency-mode-emode.md) f
 
 ### Isolation Mode
 
-New assets can be listed as _**isolated**_. Borrowers supplying an isolated asset as collateral cannot supply other assets as collateral (though they can still supply to capture yield). Borrowers using an isolated collateral can only borrow stablecoins that have been permitted by the Maker Governance to be borrowable in isolation mode, up to a specified debt ceiling.
+New assets can be listed as _**isolated**_. Borrowers supplying an isolated asset as collateral cannot supply other assets as collateral (though they can still supply to capture yield). Borrowers using an isolated collateral can only borrow stablecoins that have been permitted by Sky Governance to be borrowable in isolation mode, up to a specified debt ceiling.
 
 ![](../../sparklend/.gitbook/assets/image%20\(5\).png)
 
@@ -32,7 +32,7 @@ SparkLend brings a greatly improved set risk parameters and new features to prot
 
 ### Supply and Borrow Caps
 
-The Maker governance can now configure Borrow and Supply Caps.
+Sky Governance can now configure Borrow and Supply Caps.
 
 * **Borrow Caps:** allow to modulate how much of each asset can be borrowed, which reduces insolvency risk.
 * **Supply Caps**: allow to limit how much of a certain asset is supplied to SparkLend. This helps reducing exposure to a certain asset and mitigate attacks like infinite minting or price oracle manipulation.
@@ -43,10 +43,10 @@ In SparkLend, it will be possible to lower the borrowing power of any asset to a
 
 ### Risk Admins
 
-SparkLend introduces the ability for the Maker Governance to grant entities permission to update the risk parameters with going through governance vote for every change. These entities can be DAOs or automated agents that can build on top of this feature to react automatically in case of unanticipated events.
+SparkLend introduces the ability for the Sky Governance to grant entities permission to update the risk parameters with going through governance vote for every change. These entities can be DAOs or automated agents that can build on top of this feature to react automatically in case of unanticipated events.
 
 {% hint style="info" %}
-Maker Governance will have the ability to revoke access to existing Risk Admins or add new Risk Admins.
+Sky Governance will have the ability to revoke access to existing Risk Admins or add new Risk Admins.
 {% endhint %}
 
 ### Price Oracle Sentinel

@@ -4,7 +4,7 @@
 
 ### What is Spark?
 
-**Spark** is on a mission to empower the DAI ecosystem. As part of the MakerDAO community, Spark builds and manages DeFi infrastructure.
+**Spark** is on a mission to empower the DAI ecosystem. As part of the Sky Ecosystem, Spark builds and manages DeFi infrastructure.
 
 ### Are there any risks?
 
@@ -66,7 +66,7 @@ Your funds are allocated in a smart contract. The code of the smart contract is 
 
 ### What is sDAI? <a href="#what-is-sdai" id="what-is-sdai"></a>
 
-Savings Dai (sDAI) is a tokenized representation of Dai deposited in the Dai Savings Rate (DSR) offered by MakerDAO. The sDAI token enables users to receive returns on their DSR deposits while still being able to transfer, stake, lend and use it in any way they want.
+Savings Dai (sDAI) is a tokenized representation of Dai deposited in the Dai Savings Rate (DSR) offered by Sky. The sDAI token enables users to receive returns on their DSR deposits while still being able to transfer, stake, lend and use it in any way they want.
 
 sDAI increases in value according to the DSR, as its Dai denominated value gradually increases over time. sDAI is an accumulating token, not a rebasing token. Each sDAI is fungible and always instantly redeemable for DAI.
 
@@ -78,14 +78,11 @@ For technical documentation on the sDAI implementation please refer to the [Deve
 
 ### What are SparkConduits?
 
-SparkConduits are a technical component that enables Maker to provide liquidity directly to an external protocol, they are part of the wider Maker Allocation System.
+SparkConduits are a technical component that enables Sky to provide liquidity directly to an external protocol, they are part of the wider Sky Allocation System.
 
-## Spark SubDAO
+### What is Spark Sky Star? <a href="#what-is-spark-subdao" id="what-is-spark-subdao"></a>
 
-### What is Spark SubDAO?
+Spark is an Allocator Sky Star. A decentralized, autonomous organisation that owns and manages Spark.
 
-Spark SubDAO is a Maker Allocator SubDAO. A decentralized, autonomous organisation that owns and manages Spark.
-
-\
-SubDAOs are currently in bootstrapping phase and will be officially launched later in 2024.
+Sky Stars are currently in bootstrapping phase and will be officially launched later in 2024.
 

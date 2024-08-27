@@ -4,7 +4,7 @@ description: Learn how to maximize the savings on your stablecoin holdings.
 
 # Earning Dai Savings Rate
 
-Spark enables users to easily deposit stablecoins into savings, and receive Savings Dai (sDAI) tokens in return. The sDAI tokens represents your share of Dai in the Dai Savings Rate. As savings accrue, sDAI increases in value over time. The Dai Savings Rate is set by Maker Governance. [You can read more about sDAI here.](../../defi-infrastructure/sdai-overview.md)
+Spark enables users to easily deposit stablecoins into savings, and receive Savings Dai (sDAI) tokens in return. The sDAI tokens represents your share of Dai in the Dai Savings Rate. As savings accrue, sDAI increases in value over time. The Dai Savings Rate is set by Sky Governance. [You can read more about sDAI here.](../../defi-infrastructure/sdai-overview.md)
 
 ## Deposit Savings
 

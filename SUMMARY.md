@@ -30,7 +30,7 @@
 
 ## Governance
 
-* [Spark SubDAO](governance/sparkdao.md)
+* [Spark Sky Star](governance/sparkdao.md)
 * [SPK Token & Airdrop FAQ](governance/spk-token.md)
 
 ## Rewards

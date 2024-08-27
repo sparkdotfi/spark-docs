@@ -10,13 +10,13 @@ SPK pre-farming airdrop is ongoing, see current stats at [BlockAnalitica's websi
 
 ## What is SPK?
 
-SPK is the governance token of the Spark Maker SubDAO. [Learn more about this here.](https://forum.makerdao.com/t/makerdao-endgame-launch-season/23857)
+SPK is the governance token of the Spark Sky Star. [Learn more about this here.](https://forum.makerdao.com/t/makerdao-endgame-launch-season/23857)
 
 ## Has SPK been launched yet?
 
 The SPK token has not yet been launched. Please beware of scammers and false SPK tokens.
 
-When the token is launched, announcements will be made from the official X accounts of [MakerDAO (@makerdao)](http://x.com/MakerDAO) and [Spark (@sparkdotfi)](https://x.com/sparkdotfi) once the launch date arrives. No official launch date has been determined yet.
+When the token is launched, announcements will be made from the official X accounts of [Sky (@SkyEcosystem)](https://x.com/SkyEcosystem) and [Spark (@sparkdotfi)](https://x.com/sparkdotfi) once the launch date arrives. No official launch date has been determined yet.
 
 ## What is the SPK pre-farming airdrop?
 
@@ -42,13 +42,13 @@ In season 2 6.66M SPK will be rewarded per month to users who qualify for the ai
 * 80 % is allocated to users borrowing DAI
 * 20 % is allocated to users supplying ETH.
 
-Season 2 is an additional pre-farming period, which runs until the Spark SubDAO launches as part of Maker Endgame launch season.
+Season 2 is an additional pre-farming period, which runs until the Spark SubDAO launches as part of Sky Endgame launch season.
 
 **Note:** In season 2, the [airdrop formula](spk-token.md#how-much-spk-will-i-earn) will be applied per block, meaning you will accrue SPK each block, based on the qualifying amount borrowed/supplied.
 
 ## What will the total supply of SPK be?
 
-The SPK emissions follow the rules set forth in [MIP101: Maker Atlas Immutable Alignment Artifact](https://forum.makerdao.com/t/mip102c2-sp21-mip-amendment-subproposal/23039/5#h-4312-allocatordao-emissions-107) as part of the Maker Endgame, which states that **4.6 billion SPK tokens will be emitted over the first 10 years**. 4 billion tokens are emitted through Genesis farming, which gradually decreases over time, and 600 million tokens are allocated to a workforce bonus pool. See the allocation chart below:
+The SPK emissions follow the rules set forth in [MIP101: Sky Atlas Immutable Alignment Artifact](https://forum.makerdao.com/t/mip102c2-sp21-mip-amendment-subproposal/23039/5#h-4312-allocatordao-emissions-107) as part of the Sky Endgame, which states that **4.6 billion SPK tokens will be emitted over the first 10 years**. 4 billion tokens are emitted through Genesis farming, which gradually decreases over time, and 600 million tokens are allocated to a workforce bonus pool. See the allocation chart below:
 
 <figure><img src="https://lh7-us.googleusercontent.com/Z2TNoqqBEAX74fQs7KrfEuyceN7_Qmz_hZ79r8lVZzdZYvQu7I5HHTT5Iyz8b1AUYMU44N7t_wnNdfkR-5mKZb_rsy159dudWxjlAOYAIcOLVp_G6vnrlyeZhDPMczICv0UEF-SBMadzc6p5iwCCU8M" alt=""><figcaption><p>SPK Genesis Distribution</p></figcaption></figure>
 
@@ -128,10 +128,10 @@ You can also find your accumulated SPK tokens by navigating to [https://spark.bl
 
 ## When is SPK released?
 
-The SPK token will be released when the Spark SubDAO launches as part of the Maker Endgame launch season. The exact date has not yet been determined.
+The SPK token will be released when the Spark Sky Star launches as part of the Sky Endgame launch season. The exact date has not yet been determined.
 
 ## How do I claim SPK?
 
-Details on how to claim SPK will be announced on the official X accounts of [MakerDAO (@makerdao)](http://x.com/MakerDAO) and [Spark (@sparkdotfi)](https://x.com/sparkdotfi) once the launch date arrives.
+Details on how to claim SPK will be announced on the official X accounts of [Sky (@SkyEcosystem)](https://x.com/SkyEcosystem) and [Spark (@sparkdotfi)](https://x.com/sparkdotfi) once the launch date arrives.
 
 \

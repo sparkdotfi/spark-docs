@@ -2,13 +2,13 @@
 
 ### Isolation Mode
 
-Isolation mode allows MakerDAO Governance to list new assets as isolated assets, which have a specific debt ceiling. Only certain assets can be borrowed in isolation mode—specifically, approved stablecoins. In order for an asset to become approved for borrowing, assets are voted on by MKR token holders through the Maker Governance.
+Isolation mode allows Sky Governance to list new assets as isolated assets, which have a specific debt ceiling. Only certain assets can be borrowed in isolation mode—specifically, approved stablecoins. In order for an asset to become approved for borrowing, assets are voted on by MKR token holders through the Sky Governance.
 
 The debt ceiling for an isolated asset is represented as the maximum amount in USD that can be borrowed against the user’s collateral with two decimals of precision.
 
 ### How can I enter isolation mode?
 
-Entering isolation mode is specific to certain isolated assets that are voted on and approved by Maker Governance. You cannot utilize non-isolated assets as collateral to enter isolation mode. The steps to entering isolation mode are as follows:
+Entering isolation mode is specific to certain isolated assets that are voted on and approved by Sky Governance. You cannot utilize non-isolated assets as collateral to enter isolation mode. The steps to entering isolation mode are as follows:
 
 1. From the dashboard select an isolated asset to supply.
 2. You will then see an information notification explaining that you are entering into isolation mode.
