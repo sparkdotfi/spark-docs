@@ -80,6 +80,8 @@ For technical documentation on the sDAI implementation please refer to the [Deve
 
 SparkConduits are a technical component that enables Sky to provide liquidity directly to an external protocol, they are part of the wider Sky Allocation System.
 
+## Spark Sky Star
+
 ### What is Spark Sky Star? <a href="#what-is-spark-subdao" id="what-is-spark-subdao"></a>
 
 Spark is an Allocator Sky Star. A decentralized, autonomous organisation that owns and manages Spark.
