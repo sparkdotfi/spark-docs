@@ -20,11 +20,13 @@ The next-gen DeFi infrastructure for DAI.
 
 **Spark** is on a mission to empower the DAI ecosystem, as part of the [Sky Ecosystem](https://sky.money).
 
-### DeFi Infrastructure
+### Spark Products
 
-* **SparkLend**: The DAI centric money market protocol. Combining the best liquidity directly from Sky and vertically integrating with the best DeFi protocols.
-* **sDAI** is a yield bearing stablecoin, representing DAI in the Dai Savings Rate (DSR) module, which distributes revenue from the Sky Protocol to DAI holders.
-* **SparkConduits** allow for direct liquidity from Sky to protocols as part of the overall Sky Allocation System.
+Spark consists of three main product categories:
+
+* **SparkLend**: The DAI centric money market protocol. Combining the best liquidity directly from Maker and vertically integrating with the best DeFi protocols.
+* **Cash & Savings**: Earn savings on your stablecoin holdings
+* **SparkConduits:** Direct liquidity provision into DeFi markets.
 
 [Learn how to use the Spark App here.](spark-app/spark-app-user-guide/)
 
