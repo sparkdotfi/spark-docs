@@ -28,6 +28,6 @@ Dai Savings Rate (DSR) is a feature of the Sky Protocol that enables any Dai hol
 
 Dai does not automatically earn savings, you must activate the DSR by depositing Dai into the Dai Savings Rate contract. The Dai is not locked and can always be instantly withdrawn.
 
-The Dai Savings Rate is funded by the borrowing fees accrued by the Sky Protocol. You can always find the current Dai Savings Rate on the [Cash and Savings page in the Spark App](http://app.spark.fi/savings).
+The Dai Savings Rate is funded by the borrowing fees accrued by the Sky Protocol.
 
 The Dai Savings Rate is set by Sky Governance and is subject to change. Spark has no control over the Dai Savings Rate.

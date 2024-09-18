@@ -58,6 +58,10 @@ Follow this guide to downgrade your USDS to DAI:
 [downgrading-to-dai.md](downgrading-to-dai.md)
 {% endcontent-ref %}
 
+## Can I still use sDAI?
+
+Yes, when depositing funds into Savings, you can use a toggle to select if you want to receive sUSDS or sDAI.
+
 ## Can I borrow USDS?
 
 Yes, you can borrow USDS using the [Easy Borrow Flow](../using-sparklend/easy-borrow-flow.md). However, on the backend you are borrowing DAI, which is instantly upgraded for USDS, meaning your debt will be and must be repaid in DAI. In order to repay DAI debt, you can downgrade USDS to DAI following the steps in this guide:
