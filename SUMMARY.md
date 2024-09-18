@@ -3,44 +3,46 @@
 * [Home](README.md)
 * [FAQ](faq.md)
 
-## Spark App
+## User Guides
 
-* [Spark App User Guide](spark-app/spark-app-user-guide/README.md)
-  * [Borrowing Dai](spark-app/spark-app-user-guide/borrowing-dai.md)
-  * [Adjusting Your Position](spark-app/spark-app-user-guide/adjusting-your-position.md)
-  * [Deposit Assets](spark-app/spark-app-user-guide/deposit-assets.md)
-  * [Borrow Assets](spark-app/spark-app-user-guide/borrow-assets.md)
-  * [Repaying Your Loan](spark-app/spark-app-user-guide/repaying-your-loan.md)
-  * [Earning Dai Savings Rate](spark-app/spark-app-user-guide/earning-dai-savings-rate.md)
-  * [Overview of Markets](spark-app/spark-app-user-guide/overview-of-markets.md)
-  * [Troubleshooting](spark-app/spark-app-user-guide/troubleshooting.md)
+* [Getting Started](user-guides/getting-started.md)
+* [Earning Savings](user-guides/earning-savings/README.md)
+  * [Savings USDS](user-guides/earning-savings/savings-usds.md)
+  * [Savings DAI](user-guides/earning-savings/sdai-overview.md)
+* [Using SparkLend](user-guides/using-sparklend/README.md)
+  * [Easy Borrow Flow](user-guides/using-sparklend/easy-borrow-flow.md)
+  * [Depositing Assets](user-guides/using-sparklend/depositing-assets.md)
+  * [Borrowing Assets](user-guides/using-sparklend/borrowing-assets.md)
+  * [Adjusting Your Position](user-guides/using-sparklend/adjusting-your-position.md)
+  * [Repaying Your Loan](user-guides/using-sparklend/repaying-your-loan.md)
+  * [Overview of Markets](user-guides/using-sparklend/overview-of-markets.md)
+  * [E-Mode](user-guides/using-sparklend/e-mode.md)
+  * [Isolation Mode](user-guides/using-sparklend/spark-lend-features.md)
+  * [Liquidations](user-guides/using-sparklend/liquidations.md)
+  * [Oracles](user-guides/using-sparklend/oracles.md)
+* [Upgrading to USDS & sUSDS](user-guides/upgrading-to-usds-and-susds/README.md)
+  * [Upgrading to USDS](user-guides/upgrading-to-usds-and-susds/upgrading-to-usds.md)
+  * [Upgrading to sUSDS](user-guides/upgrading-to-usds-and-susds/upgrading-to-susds.md)
+  * [Downgrading to DAI](user-guides/upgrading-to-usds-and-susds/downgrading-to-dai.md)
+* [Earning Rewards](user-guides/earning-rewards.md)
+* [Farming Rewards](user-guides/farming-rewards.md)
+* [SparkConduits](user-guides/sparkconduits.md)
+* [Troubleshooting](user-guides/troubleshooting.md)
 
-## DeFi Infrastructure
+## Core Concepts
 
-* [sDAI](defi-infrastructure/sdai-overview.md)
-* [SparkLend](defi-infrastructure/sparklend/README.md)
-  * [Supplying & Earning](defi-infrastructure/sparklend/supplying-and-earning.md)
-  * [Borrowing](defi-infrastructure/sparklend/borrowing.md)
-  * [Isolation Mode](defi-infrastructure/sparklend/spark-lend-features.md)
-  * [E-Mode](defi-infrastructure/sparklend/e-mode.md)
-  * [Liquidations](defi-infrastructure/sparklend/liquidations.md)
-  * [Flash Loans](defi-infrastructure/sparklend/flash-loans.md)
-  * [Frozen Markets and Reserves](defi-infrastructure/sparklend/frozen-markets-and-reserves.md)
-* [SparkConduits](defi-infrastructure/sparkconduits.md)
-
-## Governance
-
-* [Spark Sky Star](governance/sparkdao.md)
-* [SPK Token & Airdrop FAQ](governance/spk-token.md)
+* [SparkLend](core-concepts/sparklend.md)
+* [Frozen Markets and Reserves](core-concepts/frozen-markets-and-reserves.md)
 
 ## Rewards
 
-* [Lido-Spark Rewards Program FAQ](rewards/lido-spark-rewards-program-faq.md)
+* [SPK Token & Airdrop](rewards/spk-token.md)
+* [Lido-Spark Rewards](rewards/lido-spark-rewards.md)
 
-## Spark Developers
+## Developers
 
 * [Spark Developer Docs](https://devs.spark.fi/)
-* [Spark Analytics](https://devs.spark.fi/spark-analytics/)
+* [Spark Analytics](https://spark.blockanalitica.com/)
 
 ## Comms
 

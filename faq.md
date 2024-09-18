@@ -1,28 +1,30 @@
+---
+hidden: true
+---
+
 # FAQ
 
 ## Spark
 
 ### What is Spark?
 
-**Spark** is on a mission to empower the DAI ecosystem. As part of the Sky Ecosystem, Spark builds and manages DeFi infrastructure.
+**Spark** is on a mission to empower the USDS ecosystem. As part of the Sky Ecosystem, Spark builds and manages DeFi infrastructure.
 
-### Are there any risks?
+Spark consists of three main product categories:
 
-No platform can be considered entirely risk-free. The risks related to the SparkLend platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimise the risk as much as possible, the protocol code is public and open source and it has been audited. Additionally, you can find additional security-related information in the [security and audits](https://devs.spark.fi/security-and-audits) sections.
+* **SparkLend**: The USDS centric money market protocol. Combining the best liquidity directly from Sky and vertically integrating with the best DeFi protocols.
+* **Savings**: Earn savings on your stablecoin holdings
+* **SparkConduits:** Direct liquidity provision into DeFi markets.
 
 ### Scams and fake accounts
 
-Be careful, it is common for scammers to create social media accounts and websites that are intended to steal your funds. While the blockchain provides users with self-sovereignty, it also means that nothing can be done when a scammer steals user funds.&#x20;
+Be careful, it is common for scammers to create fake social media accounts and websites that mimic Spark products or services to steal user funds. Therefore always ensure you are only using the official Spark products on the official domain.
 
+The legitimate Spark domain is:
 
-
-Spark legitimate domains are:
-
-* spark.fi
+* [https://spark.fi](https://spark.fi)
 
 Any subdomain based on the above domains will also be legitimate, such as docs.spark.fi
-
-
 
 Beware of the following:
 
@@ -38,23 +40,29 @@ Beware of the following:
 
 ### What is SparkLend?
 
-SparkLend is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion. Please join the [Spark Discord](https://discord.gg/sparkdao), the community looks forward to helping you understand and use SparkLend.
+SparkLend is a decentralized non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized and perpetual fashion. Please join the [Spark Discord](https://discord.gg/sparkdao), the community looks forward to helping you understand and use SparkLend.
 
-### Why SparkLend?
-
-SparkLend has been audited and secured. The protocol is completely open source, which allows anyone to interact with a user interface client, API or directly with the smart contracts on the Ethereum network. Being open source means that you are able to build any third-party service or application to interact with the protocol and enrich your product.
+The protocol is completely open source, which allows anyone to interact with a user interface client, API or directly with the smart contracts on the Ethereum network. Being open source means that you are able to build any third-party service or application to interact with the protocol and enrich your product.
 
 ### How do I interact with SparkLend?
 
-In order to interact with SparkLend, you simply supply your preferred asset and amount. After supplying, you will earn passive income based on the market borrowing demand. Additionally, supplying assets allows you to borrow by using your supplied assets as a collateral. Any interest you earn by supplying funds helps offset the interest rate you accumulate by borrowing.
+Find comprehensive user guides here on how to interact with SparkLend:
+
+{% content-ref url="user-guides/getting-started.md" %}
+[getting-started.md](user-guides/getting-started.md)
+{% endcontent-ref %}
 
 ### What is the cost of interacting with SparkLend?
 
 Interacting with the protocol requires transactions and so transaction fees for Ethereum Blockchain usage, which depend on the network status and transaction complexity.
 
-### Where are my supplied funds stored?
+### Where are my deposited funds stored?
 
-Your funds are allocated in a smart contract. The code of the smart contract is public, open source, formally verified and audited by third party auditors. You can withdraw your funds from the pool on-demand or export a tokenised (aTokens) version of your lender position. spTokens can be moved and traded as any other cryptographic asset on Ethereum.
+Your funds are deposited in a non-custodial smart contract. The code of the smart contract is public, open source, formally verified and audited by third party auditors. No centralized entity can access deposited funds.
+
+### Are there any risks?
+
+No platform can be considered entirely risk-free. The risks related to the SparkLend platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimize the risk as much as possible, the protocol code is public and open source and it has been audited. Additionally, you can find additional security-related information in the [security and audits](https://devs.spark.fi/security-and-audits) sections.
 
 ### Address Screening
 
@@ -62,7 +70,7 @@ Your funds are allocated in a smart contract. The code of the smart contract is 
 
 **What information is shared with TRM Labs?** Your address is shared with TRM, but no metadata is tracked or shared. The request from the UI is routed to the SparkLend hosted API, which is used as a proxy endpoint, and the address is passed directly through to the TRM service. Users' IP addresses are not shared with TRM.
 
-## sDAI
+## Savings
 
 ### What is sDAI? <a href="#what-is-sdai" id="what-is-sdai"></a>
 
@@ -70,7 +78,7 @@ Savings Dai (sDAI) is a tokenized representation of Dai deposited in the Dai Sav
 
 sDAI increases in value according to the DSR, as its Dai denominated value gradually increases over time. sDAI is an accumulating token, not a rebasing token. Each sDAI is fungible and always instantly redeemable for DAI.
 
-To acquire sDAI you can deposit Dai and other stablecoins using the [Spark App](spark-app/spark-app-user-guide/earning-dai-savings-rate.md).
+To acquire sDAI you can deposit Dai and other stablecoins using the [Spark App](user-guides/earning-savings/).
 
 For technical documentation on the sDAI implementation please refer to the [Developer docs](https://devs.spark.fi/sdai/technical-docs).
 
@@ -78,13 +86,13 @@ For technical documentation on the sDAI implementation please refer to the [Deve
 
 ### What are SparkConduits?
 
-SparkConduits are a technical component that enables Sky to provide liquidity directly to an external protocol, they are part of the wider Sky Allocation System.
+SparkConduits are technical components that enables Sky to provide stablecoin liquidity directly to an external protocol such as Aave or Morpho.
 
 ## Spark Sky Star
 
 ### What is Spark Sky Star? <a href="#what-is-spark-subdao" id="what-is-spark-subdao"></a>
 
-Spark is an Allocator Sky Star. A decentralized, autonomous organisation that owns and manages Spark.
+Spark is a Sky Star, a part of the Sky Ecosystem. [You can read more about the Sky Star here.](https://forum.makerdao.com/t/sky-has-arrived/24959#p-98600-spark-the-first-sky-star-14)
 
-Sky Stars are currently in bootstrapping phase and will be officially launched later in 2024.
+Sky Stars are currently in bootstrapping phase and will be officially launched in late 2024.
 
