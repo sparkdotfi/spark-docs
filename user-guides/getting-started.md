@@ -14,16 +14,15 @@ To enter the site, you must accept the [Terms of Service](https://spark.fi/terms
 
 ## Application Overview
 
-The Spark App consists of four main sections:
+The Spark App consists of five main sections - click on a section title for specific tutorials:
 
-1. **Borrow** - The landing page of the application hosts the **Easy Borrow Flow**, which enables you to borrow Dai using crypto assets as collateral. This section is focused on Dai borrowing only.
-2. **Dashboard** - Shows the state of your borrow and lending position. On the Dashboard you can also manage lending and borrow positions of any supported asset.
-3. **Savings** - Enables you to deposit stablecoins to earn savings using Savings USDS (sUSDS)
-4. **Markets** - Gives an overview of the total state of the supported lending markets, such as total liquidity and total borrows. Offers detailed information for each market, and the option to enter the markets.
+1. [**Borrow**](using-sparklend/easy-borrow-flow.md) - The landing page of the application hosts the **Easy Borrow Flow**, which enables you to borrow USDS and DAI using crypto assets as collateral. This section is focused on USDS ad DAI borrowing only.
+2. [**My portfolio**](using-sparklend/borrowing-assets.md) - Shows the state of your borrow and lending position. Here you can also manage lending and borrow positions of any supported asset.
+3. [**Markets**](using-sparklend/overview-of-markets.md) **-** gives an overview of the total state of the supported lending markets, such as total liquidity and total borrows. Offers detailed information for each market, and the option to enter the markets.
+4. [**Savings**](earning-savings/) - Enables you to deposit stablecoins to earn savings using Savings USDS (sUSDS).
+5. [**Farms**](farming-rewards/) - Enables users to deposit tokens into farms to earn Sky Token Rewards.
 
-<figure><img src="../.gitbook/assets/landing.png" alt=""><figcaption><p>Spark App Landing Page</p></figcaption></figure>
-
-The following guides will go into more detail for each section.
+<figure><img src="../.gitbook/assets/spark-landing.png" alt=""><figcaption><p>Spark App Landing Page</p></figcaption></figure>
 
 ### Connecting Your Wallet
 
