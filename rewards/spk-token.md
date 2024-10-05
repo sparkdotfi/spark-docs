@@ -103,6 +103,8 @@ The Genesis farming follow the following emission schedule:
 
 ## How do I qualify for the SPK airdrop?
 
+This section only relates to SPK rewards on SparkLend. To learn more about the Aave SPK rewards [read more here](spk-token.md#aave).
+
 Users of [Spark](http://app.spark.fi) who borrow DAI or supply ETH qualify for the SPK airdrop. You can see the formula for calculating the SPK amount in the [following section](spk-token.md#how-many-spk-tokens-are-distributed).
 
 **Note**: Attempting to game the airdrop by lending sDAI while borrowing DAI or lending and borrowing ETH on the same account will forfeit your inclusion in the airdrop.
@@ -127,6 +129,8 @@ For clarity here are some **valid examples:**
 **Note:** Borrowing DAI and depositing it into sDAI using the Cash and Savings feature of Spark is accepted and does not count against the airdrop. It is only penalized if you supply sDAI as collateral to borrow against.
 
 ## How much SPK will I earn?
+
+This section only relates to SPK rewards on SparkLend. To learn more about the Aave SPK rewards [read more here](spk-token.md#aave).
 
 The SPK Airdrop for SparkLend is calculated using the following formula:
 
@@ -154,7 +158,7 @@ The pre-farming airdrop is not available to users with IPs flagged by the [Locat
 
 ## Which networks qualify for the airdrop?
 
-You are only able to earn SPK tokens using Spark lending markets on Ethereum mainnet. Spark lending markets on other networks do not qualify for the SPK airdrop.
+You are only able to earn SPK tokens using Spark and Aave lending markets on Ethereum mainnet. Spark and Aave lending markets on other networks do not qualify for the SPK airdrop.
 
 ## Where can I see accrued SPK tokens?
 
