@@ -36,25 +36,47 @@ Spark is running a pre-farming airdrop campaign based on usage of its lending pl
 
 ### Season 1 (Aug 20, 2023 - May 20, 2024)
 
-In season 1 60M SPK will be allocated to users who qualify for the airdrop.
+In season 1 60M SPK was allocated to users who qualified for the airdrop.
 
 * 80 % (48M) is allocated to users borrowing DAI
 * 20 % (12M) is allocated to users supplying ETH.
 
-Season 1 is a pre-farming period of 9 months active from Aug 20 2023 14:25 UTC (Ethereum block 17956537) to May 20 2024 14:25 UTC.\
+Season 1 was a pre-farming period of 9 months active from Aug 20 2023 14:25 UTC (Ethereum block 17956537) to May 20 2024 14:25 UTC.\
 \
-**Note:** In season 1 the [airdrop formula](spk-token.md#how-much-spk-will-i-earn) is used across the entire time period, so your allocation will be based on the qualifying amount and how long it was borrowed/supplied, and will be rewarded retroactively.
+**Note:** In season 1 the [airdrop formula](spk-token.md#how-much-spk-will-i-earn) was used across the entire time period, so your allocation is based on the qualifying amount and how long it was borrowed/supplied.
 
-### Season 2 (May 20, 2024 - SubDAO Launch TBD)
+### Active: Season 2 (May 20, 2024 - Sky Star Launch TBD)
 
-In season 2 6.66M SPK will be rewarded per month to users who qualify for the airdrop.
+The current season offers SPK rewards across both SparkLend and Aave. Learn more about how to earn rewards on the different lending markets below.
+
+#### SparkLend
+
+In season 2 6.66M SPK will be rewarded per month to SparkLend users who qualify for the airdrop.
+
+The monthly SPK rewards are allocated as following:
 
 * 80 % is allocated to users borrowing DAI
 * 20 % is allocated to users supplying ETH.
 
-Season 2 is an additional pre-farming period, which runs until the Spark SubDAO launches as part of Sky Endgame launch season.
+Season 2 is an additional pre-farming period, which runs until the Spark Sky Star launches as part of Sky Endgame launch season.
 
 **Note:** In season 2, the [airdrop formula](spk-token.md#how-much-spk-will-i-earn) will be applied per block, meaning you will accrue SPK each block, based on the qualifying amount borrowed/supplied.
+
+#### Aave
+
+In season 2 3.33M SPK will be rewarded per month to Aave users who qualify for the airdrop.
+
+The monthly SPK rewards are allocated as following:
+
+* 100 % is allocated to users who supply USDS into Aave.
+
+The idle USDS supply consistently earns the Sky Savings Rate (SSR), ensuring capital efficiency for suppliers.
+
+To prevent gaming the incentives through "stablecoin looping", meaning supplying USDS and borrowing stablecoins that can be exchanged for USDS and be supplied again, effectively providing a highly leveraged USDS position, the following formula is used to discount such behaviour:
+
+`USDS Supplies - Sum_i(Stablecoin_i Borrow Amount (in USD) / Stablecoin_i Liquidation Threshold)`
+
+[You can read more about the Aave SPK rewards here.](https://forum.sky.money/t/spark-proposal-for-integrations-into-aave/25005#p-98707-h-1-usds-incentives-program-2)
 
 ## What will the total supply of SPK be?
 
@@ -106,21 +128,25 @@ For clarity here are some **valid examples:**
 
 ## How much SPK will I earn?
 
-The SPK Airdrop is calculated using the following formula:
+The SPK Airdrop for SparkLend is calculated using the following formula:
 
 `Airdrop = 80% * DAI Borrows in USD + 20% * ETH Supplies in USD`
 
 Please note all supplies and borrows are denominated in USD and will use the on-chain oracle price at that block to determine the conversion.
 
+For Aave SPK rewards, [read more here](spk-token.md#aave).
+
 To calculate the final airdrop, the formula will be computed for every account on each block within the valid time range, and the Airdrop value will be summed over every included block to produce a final number for each account. The relative weight of this number will then be converted to the allocated SPK token supply. See the [seasons sections](spk-token.md#season-1-aug-20-2023-may-20-2024) for the different time frames.
 
 ### Anti-cheat formula
 
-As noted in the “[How do I qualify for the airdrop?](spk-token.md#how-do-i-qualify-for-the-spk-airdrop)” section, there are certain actions that count against the airdrop. The full airdrop formula including the anti-cheat measure is as follows:
+As noted in the “[How do I qualify for the airdrop?](spk-token.md#how-do-i-qualify-for-the-spk-airdrop)” section, there are certain actions that count against the airdrop on SparkLend. The full airdrop formula including the anti-cheat measure is as follows:
 
 Full anti-cheat formula (don’t worry about this if you are using the system legitimately:
 
 `Airdrop = 80% * (DAI Borrows - sDAI Supplies * sDAI Liquidation Threshold) + 20% * (ETH Supplies - ETH Borrows / ETH Liquidation Threshold)`
+
+For Aave Rewards anti-cheat formula, [read more here](spk-token.md#aave).
 
 ## Which geographies qualify for the pre-farming airdrop?
 
