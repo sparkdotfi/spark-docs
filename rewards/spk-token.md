@@ -72,9 +72,9 @@ The monthly SPK rewards are allocated as following:
 
 The idle USDS supply consistently earns the Sky Savings Rate (SSR), ensuring capital efficiency for suppliers.
 
-To prevent gaming the incentives through "stablecoin looping", meaning supplying USDS and borrowing stablecoins that can be exchanged for USDS and be supplied again, effectively providing a highly leveraged USDS position, the following formula is used to discount such behaviour:
+To prevent gaming the incentives through "stablecoin looping", meaning supplying USDS and borrowing DAI or USDS and supplying USDS again, effectively providing a highly leveraged USDS position, the following formula is used to discount such behaviour:
 
-`USDS Supplies - Sum_i(Stablecoin_i Borrow Amount (in USD) / Stablecoin_i Liquidation Threshold)`
+`USDS Supplies - Sum_i(USDS+DAI Borrow Amount (in USD) / USDS+DAI Liquidation Threshold)`
 
 [You can read more about the Aave SPK rewards here.](https://forum.sky.money/t/spark-proposal-for-integrations-into-aave/25005#p-98707-h-1-usds-incentives-program-2)
 
