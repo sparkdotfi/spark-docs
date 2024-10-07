@@ -28,6 +28,6 @@ In the section below it displays the following data for each supported asset:
 
 <figure><img src="../../.gitbook/assets/markets-status.png" alt=""><figcaption><p>Market Status: Specific for each asset</p></figcaption></figure>
 
-For each asset you can click on the details button to get a more in-depth overview of the metrics for the asset, and its parameters, such as liquidation threshold and penalty, and whether the asset can be used in E-mode. It also displays a more indepth overview of the interest rate model for the asset. You are also able to deposit or borrow the asset directly from this page, using the sidebar on the right.
+For each asset you can click on the details button to get a more in-depth overview of the metrics for the asset, and its parameters, such as liquidation threshold and penalty, and whether the asset can be used in E-mode. The page also displays which oracle is being used for this asset ([you can read more about this here](oracles.md)). It also displays a more in-depth overview of the interest rate model for the asset. You are also able to deposit or borrow the asset directly from this page, using the sidebar on the right.
 
 <figure><img src="../../.gitbook/assets/details-weth.png" alt=""><figcaption><p>Detailed Asset Overview</p></figcaption></figure>
