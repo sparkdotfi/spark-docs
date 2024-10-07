@@ -4,7 +4,7 @@ description: Learn about the Oracles powering SparkLend.
 
 # Oracles
 
-SparkLend uses oracle price feeds to calculate the price of listed assets in the lending markets. Depending on the asset, different types of oracles are used, to ensure the proper pricing and risk management. The oracle price feeds are used to calculate the value of user collateral, and consequently how much a user can borrow, and when the system must liquidate risky positions.
+SparkLend uses oracle price feeds to power its lending markets. Depending on the asset, different types of oracles are used, to ensure the proper pricing and risk management. The oracle price feeds are used to calculate the value of user collateral, and consequently how much a user can borrow, and when the system must liquidate risky positions.
 
 ## Oracle Providers
 
