@@ -28,6 +28,7 @@
   * [Upgrading to USDS](user-guides/upgrading-to-usds-and-susds/upgrading-to-usds.md)
   * [Upgrading to sUSDS](user-guides/upgrading-to-usds-and-susds/upgrading-to-susds.md)
   * [Downgrading to DAI](user-guides/upgrading-to-usds-and-susds/downgrading-to-dai.md)
+* [Spark Liquidity Layer](user-guides/spark-liquidity-layer.md)
 * [Earning Rewards](user-guides/earning-rewards.md)
 * [SparkConduits](user-guides/sparkconduits.md)
 * [Troubleshooting](user-guides/troubleshooting.md)

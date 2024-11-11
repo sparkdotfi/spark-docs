@@ -1,6 +1,5 @@
 ---
 description: Find answers to Frequently Asked Questions.
-hidden: true
 ---
 
 # FAQ
@@ -29,21 +28,9 @@ Learn how to use Savings here:
 [earning-savings](user-guides/earning-savings/)
 {% endcontent-ref %}
 
-
-
 {% hint style="info" %}
 **Note:** Savings USDS and the Sky Savings Rate are non-custodial and permissionless smart contracts offered by Sky, and is not issued or deployed by Spark. Spark never has custody of funds deposited into or any control of the Sky Savings Rate or sUSDS token.
 {% endhint %}
-
-### What is sUSDS? <a href="#what-is-sdai" id="what-is-sdai"></a>
-
-Savings USDS (sUSDS) is the upgraded version of sDAI, which offers higher yield than sDAI. sUSDS is a tokenized representation of USDS deposited in the Sky Savings Rate (SSR) offered by Sky. The sUSDS token enables users to receive returns on their SSR deposits while still being able to transfer, stake, lend and use it in any way they want.
-
-### How do I acquire sUSDS?
-
-To acquire sUSDS and earn savings you can deposit USDS and other stablecoins using the [Spark App](user-guides/earning-savings/).
-
-For technical documentation on the sUSDS implementation please refer to the [Developer docs](https://devs.spark.fi/savings/susds-token).
 
 ### What is the Sky Savings Rate? <a href="#what-is-dsr" id="what-is-dsr"></a>
 
@@ -54,6 +41,16 @@ The Sky Savings Rate is funded by the borrowing fees accrued by the Sky Protocol
 The Sky Savings Rate offers higher yield than the Dai Savings Rate.
 
 The Sky Savings Rate is set by Sky Governance and is subject to change. Spark has no control over the Sky Savings Rate.
+
+### What is sUSDS? <a href="#what-is-sdai" id="what-is-sdai"></a>
+
+Savings USDS (sUSDS) is the upgraded version of sDAI, which offers higher yield than sDAI. sUSDS is a tokenized representation of USDS deposited in the Sky Savings Rate (SSR) offered by Sky. The sUSDS token enables users to receive returns on their SSR deposits while still being able to transfer, stake, lend and use it in any way they want.
+
+### How do I acquire sUSDS?
+
+To acquire sUSDS and earn savings you can deposit USDS and other stablecoins using the [Spark App](user-guides/earning-savings/).
+
+For technical documentation on the sUSDS implementation please refer to the [Developer docs](https://devs.spark.fi/savings/susds-token).
 
 ## Borrow
 
@@ -149,7 +146,41 @@ In order to avoid the reduction of your health factor leading to liquidation, yo
 
 ### What is the Spark Liquidity Layer?
 
-The Spark Liquidity Layer consists of technical components that enable Spark to provide stablecoin liquidity directly to external protocols such as Aave or Morpho.
+The Spark Liquidity Layer (SLL) automates liquidity provision of USDS, sUSDS, and USDC directly from Sky across various blockchain networks and DeFi protocols. This enables users to easily earn the Sky Savings Rate on their preferred network using sUSDS. Additionally, it allows Spark to automate liquidity provision into DeFi markets to optimize yield.
+
+You can read more about it here:
+
+{% content-ref url="user-guides/spark-liquidity-layer.md" %}
+[spark-liquidity-layer.md](user-guides/spark-liquidity-layer.md)
+{% endcontent-ref %}
+
+### What are the benefits?
+
+The Spark Liquidity Layer enables users on any supported chain to easily obtain sUSDS to earn the Sky Savings Rate. Furthermore, it enables Spark to deploy stablecoin liquidity directly into DeFi markets to optimize yield.
+
+### **What networks are supported?**
+
+Base will be the first supported network, with other major networks to follow soon.
+
+### **How do I obtain sUSDS on other networks?**
+
+On [app.spark.fi/savings](http://app.spark.fi/savings), you can deposit accepted stablecoins such as USDS or USDC on your preferred supported network to obtain sUSDS and earn the Sky Savings Rate.
+
+### **How can I exit my sUSDS position?**
+
+If you have sUSDS, you can swap it for other stablecoins such as USDS and USDC at [app.spark.fi/savings](http://app.spark.fi/savings). The SLL ensures there is always ample liquidity to exit your sUSDS position.
+
+### **What are the liquidity constraints?**
+
+The SLL ensures there is always ample liquidity for users to enter or exit sUSDS on supported networks. Sky aims to keep 25% of USDS collateral backing in cash reserves, which should provide a healthy buffer for users to exit, even for large volumes.
+
+### **Has the Spark Liquidity Layer been audited?**
+
+Yes, you can find the audit reports here: [https://devs.spark.fi/security/security-and-audits#spark-liquidity-layer](https://devs.spark.fi/security/security-and-audits#spark-liquidity-layer)
+
+### **Who controls the Spark Liquidity Layer?**
+
+Sky Governance determines the use cases supported by the SLL, such as networks and protocols, as well as the accepted risk parameters for each use case, including rate limits, maximum fund amounts or maximum volumes.
 
 ## Spark Sky Star
 
@@ -157,7 +188,6 @@ The Spark Liquidity Layer consists of technical components that enable Spark to 
 
 Spark is a Sky Star, a part of the Sky Ecosystem. [You can read more about the Sky Star here.](https://forum.makerdao.com/t/sky-has-arrived/24959#p-98600-spark-the-first-sky-star-14)
 
-Sky Stars are currently in bootstrapping phase and will be officially launched in late 2024.
+Sky Stars are currently in bootstrapping phase and will be officially launched in 2025.
 
 Spark.fi is a front-end that gives access to the products offered by the Spark Sky Star.
-
