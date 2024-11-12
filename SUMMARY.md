@@ -47,6 +47,7 @@
 
 * [Spark Developer Docs](https://devs.spark.fi/)
 * [Spark Analytics](https://spark.blockanalitica.com/)
+* [Security Audits](https://devs.spark.fi/security/security-and-audits)
 
 ## Comms
 

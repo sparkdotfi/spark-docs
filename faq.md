@@ -110,13 +110,13 @@ The maximum amount you can borrow depends on the value of the collateral you hav
 
 You repay your loan in the same asset you borrowed. For example, if you borrow 1000 DAI you will pay back 1000 DAI + interest accrued.
 
-### What is the difference between predictable and variable rate?
+### What is the difference between transparent and variable rate?
 
-Predictable rates act as a fixed rate in the short-term, but will change based on Sky Governance. The variable rate is the rate based on the supply and demand in SparkLend, and will constantly change.
+Transparent rates act as a fixed rate in the short-term, but will change based on Sky Governance. The variable rate is the rate based on the supply and demand in SparkLend, and will constantly change.
 
 ### How much will I pay in interest?
 
-The interest rate you pay for borrowing assets depends on the borrowing rate which is derived from the supply and demand ratio of the asset in the case of the variable rate; for predictable rate assets (DAI), the borrowing rate is defined by Sky Governance. The interest rate of a variable rate changes constantly. You can find your current borrowing rate at any time in the Borrow section of your Dashboard.
+The interest rate you pay for borrowing assets depends on the borrowing rate which is derived from the supply and demand ratio of the asset in the case of the variable rate. For transparent rate assets (DAI), the borrowing rate is defined by Sky Governance. The interest rate of a variable rate changes constantly. You can find your current borrowing rate at any time in the Borrow section of your Dashboard.
 
 ### What is the health factor?
 
