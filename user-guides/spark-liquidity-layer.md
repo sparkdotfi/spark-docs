@@ -100,12 +100,12 @@ Additional protocols will be integrated on a continuous basis.
 
 ### **What networks are supported by SLL?**
 
-The followung networks are currently supported by the SLL
+The following networks are currently supported by the SLL:
 
 * Ethereum
 * Base
 
-Other major networks will soon be supported.
+Other major networks will be supported soon.
 
 ### **How do I obtain sUSDS on other networks?**
 
