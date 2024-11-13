@@ -24,8 +24,8 @@ The Spark Documentation Portal is your one stop place for all user documentation
 
 Spark consists of three main product categories:
 
-* **SparkLend**: The USDS and DAI centric money market protocol. Combining the best liquidity directly from Sky and vertically integrating with the best DeFi protocols.
 * **Savings**: Earn savings on your stablecoin holdings.
+* **SparkLend**: The USDS and DAI centric money market protocol. Combining the best liquidity directly from Sky and vertically integrating with the best DeFi protocols.
 * **Spark Liquidity Layer:** Direct liquidity provision into DeFi markets.
 
 You will find documentation for all of these products in the sections below:

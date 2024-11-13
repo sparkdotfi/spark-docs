@@ -68,8 +68,8 @@ Learn more about Borrow here:
 
 Get started using SparkLend using this guide:
 
-{% content-ref url="user-guides/using-sparklend/easy-borrow-flow.md" %}
-[easy-borrow-flow.md](user-guides/using-sparklend/easy-borrow-flow.md)
+{% content-ref url="user-guides/using-sparklend/borrow-dai-and-usds.md" %}
+[borrow-dai-and-usds.md](user-guides/using-sparklend/borrow-dai-and-usds.md)
 {% endcontent-ref %}
 
 ### What is the cost of interacting with Borrow?

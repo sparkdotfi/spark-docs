@@ -12,8 +12,8 @@ SparkLend is a decentralized non-custodial liquidity market protocol where users
 
 Get started using SparkLend using this guide:
 
-{% content-ref url="easy-borrow-flow.md" %}
-[easy-borrow-flow.md](easy-borrow-flow.md)
+{% content-ref url="borrow-dai-and-usds.md" %}
+[borrow-dai-and-usds.md](borrow-dai-and-usds.md)
 {% endcontent-ref %}
 
 ## What are the risks?

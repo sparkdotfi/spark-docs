@@ -8,14 +8,14 @@ description: Learn how to borrow non Dai assets, and how to use E-mode.
 
 In order to borrow assets, you must first deposit assets as collateral. [Click here](depositing-assets.md) for a step by step deposit guide.
 
-If you wish to borrow Dai you can use the **Easy Borrow Flow** on the **Borrow** page.
+If you wish to borrow USDS or Dai you can use the [**Borrow DAI or USDS**](borrow-dai-and-usds.md) page.
 
-1.  To borrow assets navigate to the **Dashboard** page and scroll down to the **Borrow** section.\
+1.  To borrow assets navigate to the **My portfolio** page and scroll down to the **Borrow** section.\
 
 
-    <figure><img src="../../.gitbook/assets/dashboard-overview (3).png" alt=""><figcaption><p>The Dashboard<br></p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deposit-2 (1).png" alt=""><figcaption><p>My Portfolio<br></p></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/borrow-section (1).png" alt=""><figcaption><p>Borrow Section</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deposit-9.png" alt=""><figcaption><p>Borrow Section</p></figcaption></figure>
 
 
 2. The **Borrow** section shows the following information:
@@ -26,12 +26,12 @@ If you wish to borrow Dai you can use the **Easy Borrow Flow** on the **Borrow**
 
 3.  If you are borrowing an asset that is correlated with the deposited collateral type, you can activate the **E-Mode** **toggle** to increase the borrow amount.\
     \
-    <img src="../../.gitbook/assets/e-mode (2).png" alt="" data-size="original">\
+    <img src="../../.gitbook/assets/e-mode.png" alt="" data-size="original">\
     \
     This is available between ETH correlated assets (ETH, wsETH, rETH) and stablecoin correlated assets (DAI, USDC, USDT), and allows for increased leverage. For example, you can enable E-mode if you are borrowing ETH using wstETH as collateral. If you are borrowing assets not supported in E-mode, you cannot enable E-mode. For example, if you have already borrowed Dai against ETH, you cannot enable E-mode until this loan has been repaid. [You can read more about E-mode here.](e-mode.md)\
 
 
-    <figure><img src="../../.gitbook/assets/e-mode-2.png" alt=""><figcaption><p>E-mode Categories</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/e-mode-eth.png" alt=""><figcaption><p>E-mode Categories</p></figcaption></figure>
 
 
 4. You can borrow an asset by navigating to the asset row, and clicking **Borrow**.\
@@ -45,10 +45,10 @@ If you wish to borrow Dai you can use the **Easy Borrow Flow** on the **Borrow**
 6.  Once you have done all the necessary transactions, you will receive the borrowed assets. Your overall position will be updated, which is reflected in the **Health Factor** and overview in **Your position**.\
 
 
-    <figure><img src="../../.gitbook/assets/borrow-weth-2.png" alt=""><figcaption><p>Confirmation: Borrowing WETH</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/borrow-weth-done.png" alt=""><figcaption><p>Confirmation: Borrowing WETH</p></figcaption></figure>
 
 
-7. If you wish to borrow more assets at a later stage, you simply repeat this process..
+7. If you wish to borrow more at a later stage, you simply repeat this process.
 
 ## FAQ
 

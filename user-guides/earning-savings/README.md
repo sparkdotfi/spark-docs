@@ -37,8 +37,7 @@ The following example showcases a USDC deposit:
 
 <figure><img src="../../.gitbook/assets/savings-3.png" alt=""><figcaption><p>Depositing USDC into Savings</p></figcaption></figure>
 
-5. Once you have done all the necessary transactions, the specified amount of assets will be deposited and you will receive Savings USDS (sUSDS) tokens in return.\
-
+5. Once you have done all the necessary transactions, the specified amount of assets will be deposited and you will receive Savings USDS (sUSDS) tokens in return.
 
 <figure><img src="../../.gitbook/assets/savings-4.png" alt=""><figcaption><p>Confirmation Savings Deposit</p></figcaption></figure>
 
@@ -53,12 +52,14 @@ The following example showcases a USDC deposit:
 
     <figure><img src="../../.gitbook/assets/savings-5.png" alt=""><figcaption><p>Withdraw from Savings</p></figcaption></figure>
 
-**Note:** If you withdraw USDC from Savings, USDS will be swapped for USDC using the Sky PSM after being withdrawn from Savings. The swap route is shown in the Transaction Overview. This swap is possible as long as there is liquidity in the Sky PSM. This swap uses non-custodial Sky smart contracts, and is not facilitated or in any way custodied by Spark.
+<figure><img src="../../.gitbook/assets/savings-6.png" alt=""><figcaption><p>Withdraw from Savings</p></figcaption></figure>
+
+**Note:** If you withdraw USDC from Savings, USDS will be swapped for USDC using the Sky PSM after being withdrawn from Savings. The Sky PSM does not incur any slippage or fee beyond gas. The swap route is shown in the Transaction Overview. This swap is possible as long as there is liquidity in the Sky PSM. This swap uses non-custodial Sky smart contracts, and is not facilitated or in any way custodied by Spark.
 
 The following example showcases a USDC withdrawal:
 
-<figure><img src="../../.gitbook/assets/savings-6.png" alt=""><figcaption><p>USDC withdrawal from Savings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/savings-7.png" alt=""><figcaption><p>USDC withdrawal from Savings</p></figcaption></figure>
 
 2. Once you have done all the necessary transactions, the specified amount of USDS will be transferred to your wallet in exchange for sUSDS tokens.
 
-<figure><img src="../../.gitbook/assets/savings-7.png" alt=""><figcaption><p>Confirmation: Withdrawal from Savings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/savings-8.png" alt=""><figcaption><p>Confirmation: Withdrawal from Savings</p></figcaption></figure>

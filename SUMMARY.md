@@ -10,7 +10,7 @@
   * [Savings USDS](user-guides/earning-savings/savings-usds.md)
   * [Savings DAI](user-guides/earning-savings/sdai-overview.md)
 * [Using SparkLend](user-guides/using-sparklend/README.md)
-  * [Easy Borrow Flow](user-guides/using-sparklend/easy-borrow-flow.md)
+  * [Borrow DAI and USDS](user-guides/using-sparklend/borrow-dai-and-usds.md)
   * [Depositing Assets](user-guides/using-sparklend/depositing-assets.md)
   * [Borrowing Assets](user-guides/using-sparklend/borrowing-assets.md)
   * [Adjusting Your Position](user-guides/using-sparklend/adjusting-your-position.md)
