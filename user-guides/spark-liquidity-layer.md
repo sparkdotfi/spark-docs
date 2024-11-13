@@ -27,30 +27,6 @@ A key benefit of the SLL is its automation of sUSDS liquidity provision to other
 
 The SLL also enables Spark to provide liquidity directly into risk-adjusted yield strategies on other chains and protocols. For example, it can supply stablecoin liquidity to lending markets to earn interest, similar to current practices on Ethereum mainnet with Aave and Morpho. The yield earned from these strategies contributes to funding the Sky Savings Rate, which aims to provide the best risk-adjusted yield in DeFi.
 
-### **What networks are supported?**
-
-Base will be the first supported network, with other major networks to follow soon.
-
-### **How do I obtain sUSDS on other networks?**
-
-On [app.spark.fi/savings](http://app.spark.fi/savings), you can deposit accepted stablecoins such as USDS or USDC on your preferred supported network to obtain sUSDS and earn the Sky Savings Rate.
-
-### **How can I exit my sUSDS position?**
-
-If you have sUSDS, you can swap it for other stablecoins such as USDS and USDC at [app.spark.fi/savings](http://app.spark.fi/savings). The SLL ensures there is always ample liquidity to exit your sUSDS position.
-
-### **What are the liquidity constraints?**
-
-The SLL ensures there is always ample liquidity for users to enter or exit sUSDS on supported networks. Sky aims to keep 25% of USDS collateral backing in cash reserves, which should provide a healthy buffer for users to exit, even for large volumes.
-
-### **Has the Spark Liquidity Layer been audited?**
-
-Yes, you can find the audit reports here: [https://devs.spark.fi/security/security-and-audits#spark-liquidity-layer](https://devs.spark.fi/security/security-and-audits#spark-liquidity-layer)
-
-### **Who controls the Spark Liquidity Layer?**
-
-Sky Governance determines the use cases supported by the SLL, such as networks and protocols, as well as the accepted risk parameters for each use case, including rate limits, maximum fund amounts or maximum volumes.
-
 ## How does the Spark Liquidity Layer work?
 
 The SLL utilizes the Sky Allocation System to provide liquidity in USDS, sUSDS, and USDC across various networks and DeFi markets. It does this by minting USDS and sUSDS through the Sky Allocator Vaults and bridging them to other networks using SkyLink.
@@ -89,7 +65,18 @@ To provide cross-chain USDC liquidity, the system will use Circle's Cross-chain 
 
 Once funds have been bridged to the destination chain, they can be deployed into use cases approved by Sky Governance. Funds are strictly limited to these approved strategies and cannot be transferred arbitrarily.
 
-## Spark Liquidity Layer Use Cases
+## Spark Liquidity Layer Integrations
+
+### Direct Liquidity to Aave Lido Market
+
+The SLL supplies USDS liquidity to the Aave Lido lending market. This allows Aave users to borrow USDS against approved collateral types, generating yield for Spark. The risk parameters such as maximum amount are controlled by Sky.\
+You can find the Aave Lido USDS market here: [Aave Lido USDS market](https://app.aave.com/reserve-overview/?underlyingAsset=0xdc035d45d973e3ec169d2276ddab16f1e407384f\&marketName=proto\_lido\_v3).
+
+### Direct Liquidity to Morpho Markets
+
+The SLL supplies Dai liquidity to a series of Morpho lending markets that accepts Ethena's USDe and sUSDe as collateral. These various markets are isolated and have different risk parameters enabling a more granular approach to risk management. This allows Morpho users to borrow Dai against USDe and sUSDe, generating yield for Spark.
+
+You can find the Dai Morpho markets here: [Morpho Spark Dai Vault](https://app.morpho.org/vault?vault=0x73e65DBD630f90604062f6E02fAb9138e713edD9\&network=mainnet).
 
 ### Cross-chain Liquidity using Spark PSM
 
@@ -98,3 +85,44 @@ The first supported use case for the SLL is providing liquidity to the cross-cha
 The Spark PSM enables swapping between USDS, sUSDS, and USDC with no slippage or fee beyond network fees. It uses a hardcoded 1.00 USD price for USDS and USDC, and an exchange rate oracle for the sUSDS price. Thus, the Spark PSM is not affected by deviating market prices or slippage.
 
 The Spark PSM brings the liquidity of the Sky PSM on Ethereum mainnet to other chains, enabling users to easily swap between these assets. As a result, users can readily swap non-yielding stablecoins to sUSDS to earn the Sky Savings Rate. Conversely, the Spark PSM will always have ample liquidity, allowing users to exit from sUSDS to stablecoins.
+
+## FAQ
+
+### What protocols are supported by SLL?
+
+The following protocols are currently supported by the SLL:
+
+* SparkLend
+* Aave
+* Morpho
+
+Additional protocols will be integrated on a continuous basis.
+
+### **What networks are supported by SLL?**
+
+The followung networks are currently supported by the SLL
+
+* Ethereum
+* Base
+
+Other major networks will soon be supported.
+
+### **How do I obtain sUSDS on other networks?**
+
+On [app.spark.fi/savings](http://app.spark.fi/savings), you can deposit accepted stablecoins such as USDS or USDC on your preferred supported network to obtain sUSDS and earn the Sky Savings Rate.
+
+### **How can I exit my sUSDS position on other networks?**
+
+If you have sUSDS, you can swap it for other stablecoins such as USDS and USDC at [app.spark.fi/savings](http://app.spark.fi/savings). The SLL ensures there is always ample liquidity to exit your sUSDS position.
+
+### **What are the liquidity constraints for cross-chain liquidty?**
+
+The SLL ensures there is always ample liquidity for users to enter or exit sUSDS on supported networks. Sky aims to keep 25% of USDS collateral backing in cash reserves, which should provide a healthy buffer for users to exit, even for large volumes.
+
+### **Has the Spark Liquidity Layer been audited?**
+
+Yes, you can find the audit reports here: [https://devs.spark.fi/security/security-and-audits#spark-liquidity-layer](https://devs.spark.fi/security/security-and-audits#spark-liquidity-layer)
+
+### **Who controls the Spark Liquidity Layer?**
+
+Sky Governance determines the use cases supported by the SLL, such as networks and protocols, as well as the accepted risk parameters for each use case, including rate limits, maximum fund amounts or maximum volumes.
