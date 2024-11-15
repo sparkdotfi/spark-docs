@@ -39,7 +39,7 @@ Sky aims to keep 25% of USDS backing in cash reserves, primarily USDC, to ensure
 
 ### Automated Liquidity Management
 
-The system uses off-chain monitoring software to determine when and where to deploy stablecoin liquidity. For instance, it monitors the liquidity levels of the Spark PSM on Base to ensure sufficient USDS and sUSDS liquidity to meet the demand. It also monitors whether USDC reserves need to be bridged back to Ethereum mainnet. When action is required, transactions are automatically submitted to rebalance funds.
+The system uses off-chain monitoring software to determine when and where to deploy stablecoin liquidity. For instance, it monitors the liquidity levels of the Spark PSM on other networks to ensure sufficient USDS and sUSDS liquidity to meet the demand. It also monitors whether USDC reserves need to be bridged back to Ethereum mainnet. When action is required, transactions are automatically submitted to rebalance funds.
 
 ### Controlled By Sky
 
@@ -55,7 +55,7 @@ The system employs various bridging solutions depending on the token being bridg
 
 #### SkyLink
 
-Initially, to provide USDS and sUSDS liquidity to the Spark PSM, the system will use Sky's own canonical bridge, SkyLink, to bridge USDS and sUSDS to Base.
+Initially, to provide USDS and sUSDS liquidity to the Spark PSM on other chains, the system will use Sky's own canonical bridge, SkyLink.
 
 #### CCTP
 
@@ -103,7 +103,6 @@ Additional protocols will be integrated on a continuous basis.
 The following networks are currently supported by the SLL:
 
 * Ethereum
-* Base
 
 Other major networks will be supported soon.
 
