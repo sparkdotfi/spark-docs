@@ -173,7 +173,6 @@ Additional protocols will be integrated on a continuous basis.
 The following networks are currently supported by the SLL:
 
 * Ethereum
-* Base
 
 Other major networks will be supported soon.
 
