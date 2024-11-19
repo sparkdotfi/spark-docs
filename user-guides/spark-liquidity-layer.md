@@ -80,11 +80,11 @@ You can find the Dai Morpho markets here: [Morpho Spark Dai Vault](https://app.m
 
 ### Cross-chain Liquidity using Spark PSM
 
-The first supported use case for the SLL is providing liquidity to the cross-chain Spark PSM.
+A key use case for the SLL is providing liquidity to the cross-chain Spark PSM.
 
 The Spark PSM enables swapping between USDS, sUSDS, and USDC with no slippage or fee beyond network fees. It uses a hardcoded 1.00 USD price for USDS and USDC, and an exchange rate oracle for the sUSDS price. Thus, the Spark PSM is not affected by deviating market prices or slippage.
 
-The Spark PSM brings the liquidity of the Sky PSM on Ethereum mainnet to other chains, enabling users to easily swap between these assets. As a result, users can readily swap non-yielding stablecoins to sUSDS to earn the Sky Savings Rate. Conversely, the Spark PSM will always have ample liquidity, allowing users to exit from sUSDS to stablecoins.
+The Spark PSM brings the liquidity of the Sky PSM on Ethereum mainnet to other chains such as Base, enabling users to easily swap between these assets. As a result, users can readily swap non-yielding stablecoins to sUSDS to earn the Sky Savings Rate. Conversely, the Spark PSM will always have ample liquidity, allowing users to exit from sUSDS to stablecoins.
 
 ## FAQ
 
@@ -103,12 +103,13 @@ Additional protocols will be integrated on a continuous basis.
 The following networks are currently supported by the SLL:
 
 * Ethereum
+* Base
 
 Other major networks will be supported soon.
 
 ### **How do I obtain sUSDS on other networks?**
 
-On [app.spark.fi/savings](http://app.spark.fi/savings), you can deposit accepted stablecoins such as USDS or USDC on your preferred supported network to obtain sUSDS and earn the Sky Savings Rate.
+On [app.spark.fi/savings](http://app.spark.fi/savings), you can deposit accepted stablecoins such as USDS or USDC on your preferred supported network (e.g. Base) to obtain sUSDS and earn the Sky Savings Rate.
 
 ### **How can I exit my sUSDS position on other networks?**
 

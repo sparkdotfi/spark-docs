@@ -173,12 +173,13 @@ Additional protocols will be integrated on a continuous basis.
 The following networks are currently supported by the SLL:
 
 * Ethereum
+* Base
 
 Other major networks will be supported soon.
 
 ### **How do I obtain sUSDS on other networks?**
 
-On [app.spark.fi/savings](http://app.spark.fi/savings), you can deposit accepted stablecoins such as USDS or USDC on your preferred supported network to obtain sUSDS and earn the Sky Savings Rate.
+On [app.spark.fi/savings](http://app.spark.fi/savings), you can deposit accepted stablecoins such as USDS or USDC on your preferred supported network (e.g. Base) to obtain sUSDS and earn the Sky Savings Rate.
 
 ### **How can I exit my sUSDS position on other networks?**
 

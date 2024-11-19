@@ -4,6 +4,12 @@ description: Learn how to earn savings on your stablecoin holdings.
 
 # Earning Savings
 
+
+
+{% hint style="info" %}
+Savings is now live on Base! More networks will be supported soon.
+{% endhint %}
+
 Spark enables users to easily deposit stablecoins into savings, and receive Savings USDS (sUSDS) tokens in return. The sUSDS tokens represents your share of USDS in the Sky Savings Rate. As savings accrue, sUSDS increases in value over time. The Sky Savings Rate is set by Sky Governance. [You can read more about sUSDS here.](savings-usds.md)
 
 {% hint style="info" %}
@@ -14,17 +20,18 @@ Spark enables users to easily deposit stablecoins into savings, and receive Savi
 
 ### Deposit Savings
 
-1.  To earn yield on your stablecoins such as USDS, DAI, and USDC, navigate to the **Savings** page.\
+1. Make sure you are connected to the network you wish to use. Savings are supported across different networks.
+2.  To earn yield on your stablecoins such as USDS, DAI, and USDC, navigate to the **Savings** page.\
 
 
     <figure><img src="../../.gitbook/assets/savings-1.png" alt=""><figcaption><p>Savings Page</p></figcaption></figure>
 
 
-2. If you have stablecoins in your wallet, the UI will show you the savings opportunity based on your holdings. It shows the current Sky Savings Rate (SSR), a 30 day projected savings and a 1-year projected savings.\
+3. If you have stablecoins in your wallet, the UI will show you the savings opportunity based on your holdings. It shows the current Sky Savings Rate (SSR), a 30 day projected savings and a 1-year projected savings.\
 
-3. To deposit stablecoins, you navigate to the **Stablecoins in wallet** section, which displays the stablecoin holdings in your wallet, and click on the deposit button for the asset you wish to deposit.\
+4. To deposit stablecoins, you navigate to the **Stablecoins in wallet** section, which displays the stablecoin holdings in your wallet, and click on the deposit button for the asset you wish to deposit.\
 
-4.  In the deposit window you specify the stablecoin (dropdown) and amount (input) you wish to deposit.
+5.  In the deposit window you specify the stablecoin (dropdown) and amount (input) you wish to deposit.
 
     In the Transaction Overview it will show the APY, the route (if not using USDS, how tokens are swapped, before being deposited), and the final outcome of the deposit.\
     To finalize the deposit you must execute the transactions in the **Actions** section.
@@ -37,13 +44,13 @@ The following example showcases a USDC deposit:
 
 <figure><img src="../../.gitbook/assets/savings-3.png" alt=""><figcaption><p>Depositing USDC into Savings</p></figcaption></figure>
 
-5. Once you have done all the necessary transactions, the specified amount of assets will be deposited and you will receive Savings USDS (sUSDS) tokens in return.
+6. Once you have done all the necessary transactions, the specified amount of assets will be deposited and you will receive Savings USDS (sUSDS) tokens in return.
 
 <figure><img src="../../.gitbook/assets/savings-4.png" alt=""><figcaption><p>Confirmation Savings Deposit</p></figcaption></figure>
 
 
 
-6. The sUSDS tokens represents your share of USDS deposited the Sky Savings Rate. You need the sUSDS tokens to withdraw accrued savings in the future, so keep the tokens safe.
+7. The sUSDS tokens represents your share of USDS deposited the Sky Savings Rate. You need the sUSDS tokens to withdraw accrued savings in the future, so keep the tokens safe.
 
 ### Withdraw Savings
 
