@@ -21,7 +21,7 @@ The Spark Liquidity Layer (SLL) automates liquidity provision of USDS, sUSDS, an
 
 ### **Easy access to yield on any chain**
 
-A key benefit of the SLL is its automation of sUSDS liquidity provision to other networks, allowing users on those networks to earn yield on stablecoins. Previously, acquiring sUSDS on networks other than Ethereum mainnet was challenging due to low liquidity. The SLL addresses this by providing sUSDS liquidity against major stablecoins directly from Sky to supported networks. The aim is to offer users on any network access to the best risk-adjusted yield on stablecoins in DeFi.
+A key benefit of the SLL is its automation of sUSDS liquidity provision to other networks, allowing users on those networks to earn yield on stablecoins. Previously, acquiring sUSDS on networks other than Ethereum mainnet was challenging due to low liquidity. The SLL addresses this by providing sUSDS liquidity against major stablecoins directly from Sky to supported networks, starting with Base with other major networks to follow soon. The aim is to offer users on any network access to the best risk-adjusted yield on stablecoins in DeFi.
 
 ### **Generating yield for Spark**
 
@@ -80,7 +80,7 @@ You can find the Dai Morpho markets here: [Morpho Spark Dai Vault](https://app.m
 
 ### Cross-chain Liquidity using Spark PSM
 
-A key use case for the SLL is providing liquidity to the cross-chain Spark PSM.
+A key use case for the SLL is providing liquidity to the cross-chain Spark PSM. The first supported network is Base, with other major networks to follow soon.
 
 The Spark PSM enables swapping between USDS, sUSDS, and USDC with no slippage or fee beyond network fees. It uses a hardcoded 1.00 USD price for USDS and USDC, and an exchange rate oracle for the sUSDS price. Thus, the Spark PSM is not affected by deviating market prices or slippage.
 
