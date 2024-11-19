@@ -4,13 +4,13 @@ description: Learn how to earn savings on your stablecoin holdings.
 
 # Earning Savings
 
-
-
 {% hint style="info" %}
 Savings is now live on Base! More networks will be supported soon.
 {% endhint %}
 
 Spark enables users to easily deposit stablecoins into savings, and receive Savings USDS (sUSDS) tokens in return. The sUSDS tokens represents your share of USDS in the Sky Savings Rate. As savings accrue, sUSDS increases in value over time. The Sky Savings Rate is set by Sky Governance. [You can read more about sUSDS here.](savings-usds.md)
+
+Savings are supported on Ethereum, Base and Gnosis. [You can find an overview of supported networks and token addresses here](savings-usds.md#supported-networks-and-token-addresses).
 
 {% hint style="info" %}
 **Note:** Savings USDS and the Sky Savings Rate are non-custodial and permissionless smart contracts offered by Sky, and is not issued by Spark. Spark never has custody of funds deposited into savings or any control over the Sky Savings Rate or sUSDS token.
@@ -20,7 +20,7 @@ Spark enables users to easily deposit stablecoins into savings, and receive Savi
 
 ### Deposit Savings
 
-1. Make sure you are connected to the network you wish to use. Savings are supported across different networks.
+1. Make sure you are connected to the network you wish to use. [Savings are supported across different networks](savings-usds.md#supported-networks-and-token-addresses).
 2.  To earn yield on your stablecoins such as USDS, DAI, and USDC, navigate to the **Savings** page.\
 
 
