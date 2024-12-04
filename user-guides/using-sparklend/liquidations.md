@@ -20,4 +20,4 @@ To avoid liquidation you can raise your health factor by depositing more collate
 
 ## Can I participate in the liquidations ecosystem?
 
-Yes, liquidations are open to anyone. Liquidators develop solutions and bots to be the first ones liquidating loans to get the liquidation bonus. You can find more details in the [developers liquidation section](https://devs.spark.fi/guides/liquidations).
+Yes, liquidations are open to anyone. Liquidators develop solutions and bots to be the first ones liquidating loans to get the liquidation bonus. You can find more details in the [developers liquidation section](https://devs.spark.fi/sparklend/features/liquidations).
