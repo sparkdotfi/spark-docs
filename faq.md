@@ -150,8 +150,8 @@ The Spark Liquidity Layer (SLL) automates liquidity provision of USDS, sUSDS, an
 
 You can read more about it here:
 
-{% content-ref url="user-guides/spark-liquidity-layer.md" %}
-[spark-liquidity-layer.md](user-guides/spark-liquidity-layer.md)
+{% content-ref url="user-guides/spark-liquidity-layer/" %}
+[spark-liquidity-layer](user-guides/spark-liquidity-layer/)
 {% endcontent-ref %}
 
 ### What are the benefits?
