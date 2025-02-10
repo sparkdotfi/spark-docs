@@ -12,6 +12,9 @@ layout:
     visible: true
 ---
 
+# DEPRECATED
+This repository is deprecated - see [spark-docs-v2](https://github.com/sparkdotfi/spark-docs-v2) for up to date docs.
+
 # Home
 
 ## **Spark Documentation Portal**
